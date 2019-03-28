@@ -1,9 +1,0 @@
-Disease	Breast cancer	Lung cancer	MUO	Rheumatoid arthritis 235	Rheumatoid arthritis 457	Rett FC	Rett TC	SLE
-Breast cancer	8280	2702	395	962	488	98	138	305
-Lung cancer	2702	6344	255	715	369	68	107	234
-MUO	395	255	645	219	84	22	29	29
-Rheumatoid arthritis 235	962	715	219	1984	592	42	58	126
-Rheumatoid arthritis 457	488	369	84	592	1027	18	23	57
-Rett FC	98	68	22	42	18	257	149	9
-Rett TC	138	107	29	58	23	149	376	13
-SLE	305	234	29	126	57	9	13	4016
