@@ -1,9 +1,0 @@
-Disease	Significant Genes (n)	Percentage Significant Genes
-Breast cancer	8280	41.75%
-Lung cancer	6344	24.47%
-MUO	645	3.02%
-Rheumatoid arthritis 235	1984	15.95%
-Rheumatoid arthritis 457	1027	8.26%
-Rett FC	257	1.46%
-Rett TC	376	2.13%
-SLE	4016	6.36%

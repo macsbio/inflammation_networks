@@ -1,0 +1,890 @@
+Pathway	entrezgene	Type	Type.1
+Allograft rejection	7124	InflGene	Cluster
+Allograft rejection	3002	Gene	Cluster
+Allograft rejection	3123	InflGene	Cluster
+Allograft rejection	3122	Gene	Cluster
+Allograft rejection	7040	InflGene	Cluster
+Allograft rejection	3559	InflGene	Cluster
+Allograft rejection	3119	InflGene	Cluster
+Allograft rejection	3558	InflGene	Cluster
+Allograft rejection	3118	Gene	Cluster
+Allograft rejection	355	InflGene	Cluster
+Allograft rejection	3117	InflGene	Cluster
+Allograft rejection	356	InflGene	Cluster
+Allograft rejection	3115	Gene	Cluster
+Allograft rejection	3553	InflGene	Cluster
+Allograft rejection	3113	Gene	Cluster
+Allograft rejection	105369230	Gene	Cluster
+Allograft rejection	958	InflGene	Cluster
+Allograft rejection	959	InflGene	Cluster
+Allograft rejection	718	InflGene	Cluster
+Allograft rejection	5551	Gene	Cluster
+Allograft rejection	3134	Gene	Cluster
+Allograft rejection	3133	Gene	Cluster
+Allograft rejection	3567	InflGene	Cluster
+Allograft rejection	3127	Gene	Cluster
+Allograft rejection	720	InflGene	Cluster
+Allograft rejection	841	Gene	Cluster
+Allograft rejection	3565	InflGene	Cluster
+Allograft rejection	721	InflGene	Cluster
+Allograft rejection	727	InflGene	Cluster
+Allograft rejection	729	Gene	Cluster
+Allograft rejection	3605	InflGene	Cluster
+Allograft rejection	7422	InflGene	Cluster
+Allograft rejection	5243	InflGene	Cluster
+Allograft rejection	6772	Gene	Cluster
+Allograft rejection	3458	InflGene	Cluster
+Allograft rejection	730	Gene	Cluster
+Allograft rejection	3576	InflGene	Cluster
+Allograft rejection	3135	Gene	Cluster
+Allograft rejection	50616	InflGene	Cluster
+Allograft rejection	6387	InflGene	Cluster
+Allograft rejection	3552	InflGene	Cluster
+Allograft rejection	3596	InflGene	Cluster
+Allograft rejection	3112	Gene	Cluster
+Allograft rejection	3111	Gene	Cluster
+Allograft rejection	1493	InflGene	Cluster
+Allograft rejection	3593	InflGene	Cluster
+Allograft rejection	3592	InflGene	Cluster
+Allograft rejection	3109	Gene	Cluster
+Allograft rejection	3108	Gene	Cluster
+Allograft rejection	3107	Gene	Cluster
+Allograft rejection	3106	InflGene	Cluster
+Allograft rejection	3105	InflGene	Cluster
+Allograft rejection	940	Gene	Cluster
+Allograft rejection	941	Gene	Cluster
+Allograft rejection	3586	InflGene	Cluster
+Allograft rejection	942	Gene	Cluster
+Allograft rejection	50943	InflGene	Cluster
+Allograft rejection	652614	Gene	Cluster
+Allograft rejection	3126	Gene	Cluster
+Allograft rejection	3125	Gene	Cluster
+Diseases	7124	InflGene	Cluster
+Diseases	6356	InflGene	Cluster
+Diseases	3123	InflGene	Cluster
+Diseases	3562	Gene	Cluster
+Diseases	3122	Gene	Cluster
+Diseases	3119	InflGene	Cluster
+Diseases	2205	Gene	Cluster
+Diseases	3118	Gene	Cluster
+Diseases	3117	InflGene	Cluster
+Diseases	3578	Gene	Cluster
+Diseases	3115	Gene	Cluster
+Diseases	3113	Gene	Cluster
+Diseases	958	InflGene	Cluster
+Diseases	959	InflGene	Cluster
+Diseases	3112	Gene	Cluster
+Diseases	3596	InflGene	Cluster
+Diseases	3111	Gene	Cluster
+Diseases	3109	Gene	Cluster
+Diseases	3108	Gene	Cluster
+Diseases	3127	Gene	Cluster
+Diseases	3567	InflGene	Cluster
+Diseases	3126	Gene	Cluster
+Diseases	3125	Gene	Cluster
+Diseases	3565	InflGene	Cluster
+Diseases	3586	InflGene	Cluster
+Diseases	6037	Gene	Cluster
+Diseases	2207	Gene	Cluster
+Diseases	2206	Gene	Cluster
+Diseases	8288	Gene	Cluster
+Diseases	5553	Gene	Cluster
+Allograft rejection	3569	InflGene	Cluster
+Allograft rejection	3811	Gene	Cluster
+Allograft rejection	3812	Gene	Cluster
+Allograft rejection	57292	Gene	Cluster
+Allograft rejection	3803	Gene	Cluster
+Allograft rejection	3804	Gene	Cluster
+Allograft rejection	3821	Gene	Cluster
+Allograft rejection	3802	Gene	Cluster
+Allograft rejection	3824	Gene	Cluster
+Diseases	7040	InflGene	Cluster
+Diseases	9020	Gene	Cluster
+Diseases	3558	InflGene	Cluster
+Diseases	10673	InflGene	Cluster
+Diseases	3676	Gene	Cluster
+Diseases	6387	InflGene	Cluster
+Diseases	7852	Gene	Cluster
+Diseases	3569	InflGene	Cluster
+Diseases	115650	InflGene	Cluster
+Diseases	3600	InflGene	Cluster
+Diseases	940	Gene	Cluster
+Diseases	941	Gene	Cluster
+Diseases	942	Gene	Cluster
+Diseases	5284	Gene	Cluster
+Diseases	23308	Gene	Cluster
+Diseases	4055	Gene	Cluster
+Diseases	8174	Gene	Cluster
+Diseases	6370	Gene	Cluster
+Diseases	56477	Gene	Cluster
+Diseases	10850	Gene	Cluster
+Diseases	2826	Gene	Cluster
+Diseases	8741	Gene	Cluster
+Diseases	3695	Gene	Cluster
+Diseases	3601	Gene	Cluster
+Diseases	10803	Gene	Cluster
+Diseases	29851	Gene	Cluster
+Diseases	57379	Gene	Cluster
+Diseases	23495	Gene	Cluster
+Diseases	608	Gene	Cluster
+Immune cell regulation	7043	Gene	Cluster
+Immune cell regulation	7124	InflGene	Cluster
+Immune cell regulation	3684	Gene	Cluster
+Immune cell regulation	3123	InflGene	Cluster
+Immune cell regulation	3122	Gene	Cluster
+Immune cell regulation	7040	InflGene	Cluster
+Immune cell regulation	7042	Gene	Cluster
+Immune cell regulation	3716	Gene	Cluster
+Immune cell regulation	3119	InflGene	Cluster
+Immune cell regulation	3717	InflGene	Cluster
+Immune cell regulation	3118	Gene	Cluster
+Immune cell regulation	3117	InflGene	Cluster
+Immune cell regulation	3115	Gene	Cluster
+Immune cell regulation	3553	InflGene	Cluster
+Immune cell regulation	3113	Gene	Cluster
+Immune cell regulation	3676	Gene	Cluster
+Immune cell regulation	4843	InflGene	Cluster
+Immune cell regulation	10454	Gene	Cluster
+Immune cell regulation	718	InflGene	Cluster
+Immune cell regulation	7099	InflGene	Cluster
+Immune cell regulation	5594	Gene	Cluster
+Immune cell regulation	5595	Gene	Cluster
+Immune cell regulation	6885	Gene	Cluster
+Immune cell regulation	7097	InflGene	Cluster
+Immune cell regulation	3127	Gene	Cluster
+Immune cell regulation	3126	Gene	Cluster
+Immune cell regulation	51135	Gene	Cluster
+Immune cell regulation	3125	Gene	Cluster
+Immune cell regulation	3565	InflGene	Cluster
+Immune cell regulation	5743	InflGene	Cluster
+Immune cell regulation	3688	Gene	Cluster
+Immune cell regulation	3689	Gene	Cluster
+Immune cell regulation	4615	InflGene	Cluster
+Immune cell regulation	3725	Gene	Cluster
+Immune cell regulation	4790	InflGene	Cluster
+Immune cell regulation	7189	Gene	Cluster
+Immune cell regulation	4792	InflGene	Cluster
+Immune cell regulation	6772	Gene	Cluster
+Immune cell regulation	4793	Gene	Cluster
+Immune cell regulation	3460	Gene	Cluster
+Immune cell regulation	3459	Gene	Cluster
+Immune cell regulation	3458	InflGene	Cluster
+Immune cell regulation	1432	InflGene	Cluster
+Immune cell regulation	3654	Gene	Cluster
+Immune cell regulation	6300	Gene	Cluster
+Immune cell regulation	5970	InflGene	Cluster
+Immune cell regulation	3112	Gene	Cluster
+Immune cell regulation	3552	InflGene	Cluster
+Immune cell regulation	3111	Gene	Cluster
+Immune cell regulation	3593	InflGene	Cluster
+Immune cell regulation	3592	InflGene	Cluster
+Immune cell regulation	23118	Gene	Cluster
+Immune cell regulation	3109	Gene	Cluster
+Immune cell regulation	3108	Gene	Cluster
+Immune cell regulation	2214	InflGene	Cluster
+Immune cell regulation	2212	InflGene	Cluster
+Immune cell regulation	3586	InflGene	Cluster
+Immune cell regulation	5600	Gene	Cluster
+Immune cell regulation	5603	Gene	Cluster
+Immune cell regulation	9103	Gene	Cluster
+Immune cell regulation	2353	Gene	Cluster
+Immune cell regulation	1535	Gene	Cluster
+Immune cell regulation	1378	Gene	Cluster
+Immune cell regulation	5579	Gene	Cluster
+Immune cell regulation	5777	Gene	Cluster
+Immune cell regulation	4688	Gene	Cluster
+Immune cell regulation	4689	Gene	Cluster
+Immune cell regulation	65108	Gene	Cluster
+Immune cell regulation	2002	Gene	Cluster
+Immune cell regulation	2209	Gene	Cluster
+Immune cell regulation	653361	Gene	Cluster
+Immune cell regulation	2215	Gene	Cluster
+NFkB	6352	InflGene	Cluster
+NFkB	7124	InflGene	Cluster
+NFkB	4210	InflGene	Cluster
+NFkB	6356	InflGene	Cluster
+NFkB	3320	Gene	Cluster
+NFkB	114548	InflGene	Cluster
+NFkB	3553	InflGene	Cluster
+NFkB	6347	InflGene	Cluster
+NFkB	834	InflGene	Cluster
+NFkB	8767	Gene	Cluster
+NFkB	10454	Gene	Cluster
+NFkB	5594	Gene	Cluster
+NFkB	5595	Gene	Cluster
+NFkB	6885	Gene	Cluster
+NFkB	64127	InflGene	Cluster
+NFkB	3569	InflGene	Cluster
+NFkB	1147	Gene	Cluster
+NFkB	841	Gene	Cluster
+NFkB	2919	InflGene	Cluster
+NFkB	329	Gene	Cluster
+NFkB	3606	InflGene	Cluster
+NFkB	4790	InflGene	Cluster
+NFkB	7189	Gene	Cluster
+NFkB	10392	InflGene	Cluster
+NFkB	4792	InflGene	Cluster
+NFkB	4793	Gene	Cluster
+NFkB	330	Gene	Cluster
+NFkB	2920	InflGene	Cluster
+NFkB	1432	InflGene	Cluster
+NFkB	3576	InflGene	Cluster
+NFkB	5599	Gene	Cluster
+NFkB	6300	Gene	Cluster
+NFkB	5970	InflGene	Cluster
+NFkB	3551	Gene	Cluster
+NFkB	257397	Gene	Cluster
+NFkB	23118	Gene	Cluster
+NFkB	5600	Gene	Cluster
+NFkB	8517	Gene	Cluster
+NFkB	5603	Gene	Cluster
+NFkB	59082	Gene	Cluster
+NFkB	6355	Gene	Cluster
+NFkB	6354	Gene	Cluster
+NFkB	6357	Gene	Cluster
+NFkB	29108	Gene	Cluster
+NFkB	838	Gene	Cluster
+NFkB	58484	Gene	Cluster
+NFkB	3326	Gene	Cluster
+NFkB	7205	Gene	Cluster
+NFkB	7128	Gene	Cluster
+NFkB	84674	Gene	Cluster
+NFkB	4671	Gene	Cluster
+NFkB	260434	Gene	Cluster
+NFkB	7184	Gene	Cluster
+NFkB	10910	Gene	Cluster
+NFkB	331	Gene	Cluster
+NFkB	64170	Gene	Cluster
+NFkB	22900	Gene	Cluster
+NFkB	9051	Gene	Cluster
+NFkB	22861	Gene	Cluster
+NFkB	5601	Gene	Cluster
+NFkB	5602	Gene	Cluster
+NFkB	55914	Gene	Cluster
+Diseases	3002	Gene	Cluster
+Diseases	652614	Gene	Cluster
+Diseases	3458	InflGene	Cluster
+Diseases	355	InflGene	Cluster
+Diseases	356	InflGene	Cluster
+Diseases	3553	InflGene	Cluster
+Diseases	3135	Gene	Cluster
+Diseases	3630	Gene	Cluster
+Diseases	4049	InflGene	Cluster
+Diseases	5551	Gene	Cluster
+Diseases	3134	Gene	Cluster
+Diseases	3552	InflGene	Cluster
+Diseases	3133	Gene	Cluster
+Diseases	3593	InflGene	Cluster
+Diseases	3592	InflGene	Cluster
+Diseases	3329	InflGene	Cluster
+Diseases	3107	Gene	Cluster
+Diseases	3106	InflGene	Cluster
+Diseases	3105	InflGene	Cluster
+Diseases	1363	Gene	Cluster
+Diseases	2572	Gene	Cluster
+Diseases	2571	Gene	Cluster
+Diseases	3382	Gene	Cluster
+Diseases	5798	Gene	Cluster
+Diseases	5799	Gene	Cluster
+NFkB	6285	Gene	Cluster
+NFkB	7098	InflGene	Cluster
+NFkB	4791	InflGene	Cluster
+NFkB	6288	InflGene	Cluster
+NFkB	6283	InflGene	Cluster
+NFkB	148022	Gene	Cluster
+NFkB	351	Gene	Cluster
+NFkB	177	InflGene	Cluster
+NFkB	3146	InflGene	Cluster
+NFkB	81030	Gene	Cluster
+NFkB	8737	Gene	Cluster
+NFkB	11035	Gene	Cluster
+NFkB	3654	Gene	Cluster
+NFkB	3656	Gene	Cluster
+NFkB	4214	Gene	Cluster
+NFkB	7186	Gene	Cluster
+NFkB	64135	Gene	Cluster
+NFkB	23586	Gene	Cluster
+NFkB	57506	Gene	Cluster
+NFkB	84282	Gene	Cluster
+NFkB	7706	Gene	Cluster
+Allograft rejection	2551	Gene	Cluster
+Allograft rejection	1459	Gene	Cluster
+Allograft rejection	2668	Gene	Cluster
+Allograft rejection	712	Gene	Cluster
+Allograft rejection	713	Gene	Cluster
+Allograft rejection	10376	Gene	Cluster
+Allograft rejection	714	Gene	Cluster
+Allograft rejection	836	Gene	Cluster
+Allograft rejection	717	Gene	Cluster
+Allograft rejection	10578	Gene	Cluster
+Allograft rejection	6363	Gene	Cluster
+Allograft rejection	6366	Gene	Cluster
+Allograft rejection	5156	Gene	Cluster
+Allograft rejection	5590	Gene	Cluster
+Allograft rejection	840	Gene	Cluster
+Allograft rejection	643	Gene	Cluster
+Allograft rejection	120892	Gene	Cluster
+Allograft rejection	842	Gene	Cluster
+Allograft rejection	6373	Gene	Cluster
+Allograft rejection	59067	Gene	Cluster
+Allograft rejection	23743	Gene	Cluster
+Allograft rejection	731	Gene	Cluster
+Allograft rejection	732	Gene	Cluster
+Allograft rejection	55825	Gene	Cluster
+Allograft rejection	735	Gene	Cluster
+Allograft rejection	4283	Gene	Cluster
+Allograft rejection	7431	Gene	Cluster
+Allograft rejection	100507436	Gene	Cluster
+Allograft rejection	3035	Gene	Cluster
+Allograft rejection	185	Gene	Cluster
+Allograft rejection	1289	Gene	Cluster
+Allograft rejection	10563	Gene	Cluster
+Allograft rejection	1604	Gene	Cluster
+Immune cell regulation	7412	InflGene	Cluster
+Immune cell regulation	3383	InflGene	Cluster
+Immune cell regulation	3827	InflGene	Cluster
+Immune cell regulation	3569	InflGene	Cluster
+Immune cell regulation	730	Gene	Cluster
+Immune cell regulation	3576	InflGene	Cluster
+Immune cell regulation	6403	InflGene	Cluster
+Immune cell regulation	727	InflGene	Cluster
+Immune cell regulation	729	Gene	Cluster
+Immune cell regulation	3683	Gene	Cluster
+Immune cell regulation	6404	Gene	Cluster
+Cytokines	7124	InflGene	Cluster
+Cytokines	1440	Gene	Cluster
+Cytokines	3123	InflGene	Cluster
+Cytokines	3562	Gene	Cluster
+Cytokines	3122	Gene	Cluster
+Cytokines	7040	InflGene	Cluster
+Cytokines	1437	InflGene	Cluster
+Cytokines	1435	InflGene	Cluster
+Cytokines	3558	InflGene	Cluster
+Cytokines	2920	InflGene	Cluster
+Cytokines	3458	InflGene	Cluster
+Cytokines	3456	Gene	Cluster
+Cytokines	3553	InflGene	Cluster
+Cytokines	105369230	Gene	Cluster
+Cytokines	5154	Gene	Cluster
+Cytokines	3552	InflGene	Cluster
+Cytokines	3596	InflGene	Cluster
+Cytokines	3574	Gene	Cluster
+Cytokines	3593	InflGene	Cluster
+Cytokines	3569	InflGene	Cluster
+Cytokines	3600	InflGene	Cluster
+Cytokines	3567	InflGene	Cluster
+Cytokines	3589	Gene	Cluster
+Cytokines	3565	InflGene	Cluster
+Cytokines	3586	InflGene	Cluster
+Cytokines	920	Gene	Cluster
+Cytokines	2919	InflGene	Cluster
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	7124	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	2625	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	64806	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3458	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3578	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	51561	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3553	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	30009	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	50616	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	85480	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3574	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3596	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3593	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3592	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3569	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3600	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3567	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3565	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	90865	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3606	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3605	InflGene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	9760	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	2672	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	196	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	6095	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	374	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	6927	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	8320	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	4783	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	3398	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	64919	Gene	Pathway
+WP_DEVELOPMENT_AND_HETEROGENEITY_OF_THE_ILC_FAMILY	7704	Gene	Pathway
+NFkB	100313781	Gene	Cluster
+NFkB	6364	InflGene	Cluster
+NFkB	9020	Gene	Cluster
+NFkB	3456	Gene	Cluster
+NFkB	9260	Gene	Cluster
+NFkB	7185	Gene	Cluster
+NFkB	4215	Gene	Cluster
+NFkB	8717	Gene	Cluster
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	929	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	5340	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	7189	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	4790	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	7124	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3684	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	148022	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3456	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	6347	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3654	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	4843	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3656	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	7099	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	7098	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	100313781	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3551	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3593	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3569	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	1147	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	51135	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	207	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	8517	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	5327	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3689	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	6714	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	4615	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3627	InflGene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	114609	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	6850	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3661	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	23643	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	2921	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	83593	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	353376	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	387	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	3929	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	7305	Gene	Pathway
+WP_FIBRIN_COMPLEMENT_RECEPTOR_3_SIGNALING_PATHWAY	868	Gene	Pathway
+Vitamin B12	6472	Gene	Cluster
+Vitamin B12	5340	Gene	Cluster
+Vitamin B12	7124	InflGene	Cluster
+Vitamin B12	2155	Gene	Cluster
+Vitamin B12	3043	Gene	Cluster
+Vitamin B12	3558	InflGene	Cluster
+Vitamin B12	3039	Gene	Cluster
+Vitamin B12	2147	InflGene	Cluster
+Vitamin B12	875	Gene	Cluster
+Vitamin B12	3553	InflGene	Cluster
+Vitamin B12	3630	Gene	Cluster
+Vitamin B12	6347	InflGene	Cluster
+Vitamin B12	4524	Gene	Cluster
+Vitamin B12	12	Gene	Cluster
+Vitamin B12	102465534	Gene	Cluster
+Vitamin B12	4143	Gene	Cluster
+Vitamin B12	6289	Gene	Cluster
+Vitamin B12	6288	InflGene	Cluster
+Vitamin B12	19	Gene	Cluster
+Vitamin B12	3569	InflGene	Cluster
+Vitamin B12	3565	InflGene	Cluster
+Vitamin B12	3643	Gene	Cluster
+Vitamin B12	847	InflGene	Cluster
+Vitamin B12	4790	InflGene	Cluster
+Vitamin B12	4791	InflGene	Cluster
+Vitamin B12	4353	InflGene	Cluster
+Vitamin B12	4552	Gene	Cluster
+Vitamin B12	6290	Gene	Cluster
+Vitamin B12	3383	InflGene	Cluster
+Vitamin B12	6291	InflGene	Cluster
+Vitamin B12	1435	InflGene	Cluster
+Vitamin B12	3458	InflGene	Cluster
+Vitamin B12	213	Gene	Cluster
+Vitamin B12	335	InflGene	Cluster
+Vitamin B12	338	Gene	Cluster
+Vitamin B12	6647	InflGene	Cluster
+Vitamin B12	6649	Gene	Cluster
+Vitamin B12	4548	Gene	Cluster
+Vitamin B12	6648	Gene	Cluster
+Vitamin B12	100129518	Gene	Cluster
+Vitamin B12	5054	InflGene	Cluster
+Vitamin B12	5970	InflGene	Cluster
+Vitamin B12	7157	InflGene	Cluster
+Vitamin B12	1491	Gene	Cluster
+Vitamin B12	3949	Gene	Cluster
+Vitamin B12	1401	InflGene	Cluster
+Vitamin B12	5327	InflGene	Cluster
+Vitamin B12	949	Gene	Cluster
+Vitamin B12	102466733	Gene	Cluster
+Vitamin B12	2352	Gene	Cluster
+Vitamin B12	191	Gene	Cluster
+Vitamin B12	2350	Gene	Cluster
+Vitamin B12	6470	Gene	Cluster
+Vitamin B12	2348	Gene	Cluster
+Vitamin B12	4522	Gene	Cluster
+Vitamin B12	4842	Gene	Cluster
+Vitamin B12	390243	Gene	Cluster
+Vitamin B12	80308	Gene	Cluster
+Vitamin B12	2878	Gene	Cluster
+Vitamin B12	2877	Gene	Cluster
+Vitamin B12	2876	Gene	Cluster
+Vitamin B12	257202	Gene	Cluster
+Vitamin B12	2879	Gene	Cluster
+Vitamin B12	10588	Gene	Cluster
+Vitamin B12	6573	Gene	Cluster
+Vitamin B12	113235	Gene	Cluster
+Vitamin B12	1719	Gene	Cluster
+Vitamin B12	10797	Gene	Cluster
+Vitamin B12	55312	Gene	Cluster
+Vitamin B12	2618	Gene	Cluster
+Vitamin B12	7941	InflGene	Cluster
+Vitamin B12	114548	InflGene	Cluster
+Vitamin B12	2205	Gene	Cluster
+Vitamin B12	3554	InflGene	Cluster
+Vitamin B12	1232	InflGene	Cluster
+Vitamin B12	3654	Gene	Cluster
+Vitamin B12	7076	InflGene	Cluster
+Vitamin B12	100313781	Gene	Cluster
+Vitamin B12	5290	Gene	Cluster
+Vitamin B12	6280	InflGene	Cluster
+Vitamin B12	7097	InflGene	Cluster
+Vitamin B12	7096	Gene	Cluster
+Vitamin B12	4318	InflGene	Cluster
+Vitamin B12	3606	InflGene	Cluster
+Vitamin B12	4615	InflGene	Cluster
+Vitamin B12	8991	Gene	Cluster
+Vitamin B12	2149	Gene	Cluster
+Vitamin B12	1839	Gene	Cluster
+Vitamin B12	7077	Gene	Cluster
+Cytokines	6772	Gene	Cluster
+Cytokines	6774	InflGene	Cluster
+Cytokines	3162	InflGene	Cluster
+Cytokines	3716	Gene	Cluster
+Cytokines	3588	InflGene	Cluster
+Cytokines	3587	InflGene	Cluster
+Cytokines	6773	Gene	Cluster
+Cytokines	6775	Gene	Cluster
+Cytokines	644	Gene	Cluster
+Cytokines	645	Gene	Cluster
+Cytokines	6777	Gene	Cluster
+Cytokines	6776	Gene	Cluster
+Cytokines	6778	Gene	Cluster
+Cytokines	7189	Gene	Cluster
+Cytokines	112744	InflGene	Cluster
+Cytokines	4790	InflGene	Cluster
+Cytokines	4793	Gene	Cluster
+Cytokines	9020	Gene	Cluster
+Cytokines	64806	Gene	Cluster
+Cytokines	3717	InflGene	Cluster
+Cytokines	5594	Gene	Cluster
+Cytokines	5595	Gene	Cluster
+Cytokines	5970	InflGene	Cluster
+Cytokines	6885	Gene	Cluster
+Cytokines	3551	Gene	Cluster
+Cytokines	1051	Gene	Cluster
+Cytokines	2932	Gene	Cluster
+Cytokines	8517	Gene	Cluster
+Cytokines	207	InflGene	Cluster
+Cytokines	3605	InflGene	Cluster
+Cytokines	7187	Gene	Cluster
+Cytokines	132014	Gene	Cluster
+Cytokines	23765	Gene	Cluster
+Cytokines	84818	Gene	Cluster
+Cytokines	53342	Gene	Cluster
+Cytokines	10758	Gene	Cluster
+Cytokines	55540	Gene	Cluster
+Cytokines	27189	Gene	Cluster
+Cytokines	6667	Gene	Cluster
+Cytokines	54756	Gene	Cluster
+Cytokines	1052	Gene	Cluster
+Cytokines	27190	Gene	Cluster
+Cytokines	3659	InflGene	Cluster
+Cytokines	7076	InflGene	Cluster
+Cytokines	7432	InflGene	Cluster
+Cytokines	3572	Gene	Cluster
+Cytokines	3570	InflGene	Cluster
+Cytokines	1401	InflGene	Cluster
+Cytokines	5580	Gene	Cluster
+Cytokines	6198	Gene	Cluster
+Cytokines	5781	Gene	Cluster
+Cytokines	6654	Gene	Cluster
+Cytokines	3065	Gene	Cluster
+Cytokines	9021	Gene	Cluster
+Cytokines	572	Gene	Cluster
+Cytokines	2885	Gene	Cluster
+Cytokines	598	Gene	Cluster
+Cytokines	8648	Gene	Cluster
+Cytokines	639	Gene	Cluster
+Cytokines	5879	Gene	Cluster
+Cytokines	51701	Gene	Cluster
+Cytokines	2549	Gene	Cluster
+Cytokines	7297	Gene	Cluster
+Cytokines	5295	Gene	Cluster
+Cytokines	5296	Gene	Cluster
+Cytokines	6464	Gene	Cluster
+Cytokines	3055	Gene	Cluster
+Cytokines	2063	Gene	Cluster
+Cytokines	183	Gene	Cluster
+Cytokines	3726	Gene	Cluster
+Cytokines	1387	Gene	Cluster
+Cytokines	6416	Gene	Cluster
+Cytokines	5604	Gene	Cluster
+Cytokines	5605	Gene	Cluster
+Cytokines	7409	Gene	Cluster
+Allograft rejection	7432	InflGene	Cluster
+Allograft rejection	3560	InflGene	Cluster
+Allograft rejection	1277	InflGene	Cluster
+Allograft rejection	7132	InflGene	Cluster
+Allograft rejection	7133	InflGene	Cluster
+Allograft rejection	2335	Gene	Cluster
+Allograft rejection	3566	InflGene	Cluster
+Allograft rejection	3561	Gene	Cluster
+Allograft rejection	100616340	Gene	Cluster
+Allograft rejection	1281	Gene	Cluster
+Allograft rejection	3913	Gene	Cluster
+Allograft rejection	100500837	Gene	Cluster
+Allograft rejection	3915	Gene	Cluster
+Allograft rejection	3918	Gene	Cluster
+Allograft rejection	1278	Gene	Cluster
+Allograft rejection	7535	Gene	Cluster
+Allograft rejection	3932	Gene	Cluster
+Allograft rejection	3911	Gene	Cluster
+Allograft rejection	3912	Gene	Cluster
+Allograft rejection	7057	Gene	Cluster
+Allograft rejection	7059	Gene	Cluster
+Allograft rejection	102465836	Gene	Cluster
+Allograft rejection	3568	Gene	Cluster
+Allograft rejection	7448	Gene	Cluster
+Inflammation	929	InflGene	Cluster
+Inflammation	7099	InflGene	Cluster
+Inflammation	7189	Gene	Cluster
+Inflammation	5594	Gene	Cluster
+Inflammation	4792	InflGene	Cluster
+Inflammation	7124	InflGene	Cluster
+Inflammation	4057	InflGene	Cluster
+Inflammation	3552	InflGene	Cluster
+Inflammation	7097	InflGene	Cluster
+Inflammation	3439	Gene	Cluster
+Inflammation	177	InflGene	Cluster
+Inflammation	3569	InflGene	Cluster
+Inflammation	3456	Gene	Cluster
+Inflammation	51135	Gene	Cluster
+Inflammation	3576	InflGene	Cluster
+Inflammation	3553	InflGene	Cluster
+Inflammation	3654	Gene	Cluster
+Inflammation	4615	InflGene	Cluster
+Inflammation	54210	Gene	Cluster
+Diseases	6351	InflGene	Cluster
+Diseases	6352	InflGene	Cluster
+Diseases	5265	InflGene	Cluster
+Diseases	3162	InflGene	Cluster
+Diseases	796	InflGene	Cluster
+Diseases	6348	InflGene	Cluster
+Diseases	6347	InflGene	Cluster
+Diseases	5154	Gene	Cluster
+Diseases	729230	Gene	Cluster
+Diseases	1906	InflGene	Cluster
+Diseases	6696	InflGene	Cluster
+Diseases	1440	Gene	Cluster
+Diseases	1437	InflGene	Cluster
+Diseases	2920	InflGene	Cluster
+Diseases	2247	InflGene	Cluster
+Diseases	3576	InflGene	Cluster
+Diseases	1232	InflGene	Cluster
+Diseases	7076	InflGene	Cluster
+Diseases	1051	Gene	Cluster
+Diseases	5806	InflGene	Cluster
+Diseases	4313	InflGene	Cluster
+Diseases	4318	InflGene	Cluster
+Diseases	3082	Gene	Cluster
+Diseases	653509	Gene	Cluster
+Diseases	4092	Gene	Cluster
+Diseases	57105	Gene	Cluster
+Diseases	1215	Gene	Cluster
+Diseases	3479	Gene	Cluster
+Diseases	4204	Gene	Cluster
+Diseases	4780	Gene	Cluster
+Diseases	6440	Gene	Cluster
+Diseases	7015	Gene	Cluster
+Diseases	5155	Gene	Cluster
+Diseases	729238	Gene	Cluster
+Diseases	727897	Gene	Cluster
+Diseases	5073	Gene	Cluster
+Diseases	23250	Gene	Cluster
+Diseases	10144	Gene	Cluster
+Diseases	91039	Gene	Cluster
+Diseases	6498	Gene	Cluster
+Diseases	2252	Gene	Cluster
+Diseases	79991	Gene	Cluster
+Diseases	1832	Gene	Cluster
+Diseases	2006	Gene	Cluster
+Diseases	1950	Gene	Cluster
+Diseases	2246	Gene	Cluster
+Diseases	655	Gene	Cluster
+Diseases	4502	Gene	Cluster
+Diseases	7039	Gene	Cluster
+Diseases	1490	Gene	Cluster
+Diseases	255520	Gene	Cluster
+Diseases	51750	Gene	Cluster
+Diseases	26585	Gene	Cluster
+Diseases	5328	Gene	Cluster
+Cytokines	406984	Gene	Cluster
+Cytokines	406983	Gene	Cluster
+Cytokines	406985	Gene	Cluster
+Cytokines	652995	Gene	Cluster
+Cytokines	3590	Gene	Cluster
+Cytokines	3718	Gene	Cluster
+Cytokines	6935	Gene	Cluster
+Cytokines	6659	Gene	Cluster
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	7124	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	3162	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	5293	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	3569	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	1401	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	2335	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	3576	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	5742	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	10000	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	5743	InflGene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	3681	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	1282	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	581	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	596	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	896	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	1001	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	3909	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	4798	Gene	Pathway
+WP_OVERVIEW_OF_NANOPARTICLE_EFFECTS	5747	Gene	Pathway
+NFkB	7422	InflGene	Cluster
+NFkB	3383	InflGene	Cluster
+NFkB	1437	InflGene	Cluster
+NFkB	3558	InflGene	Cluster
+NFkB	959	InflGene	Cluster
+NFkB	7132	InflGene	Cluster
+NFkB	6401	InflGene	Cluster
+NFkB	7412	InflGene	Cluster
+NFkB	3552	InflGene	Cluster
+NFkB	4312	InflGene	Cluster
+NFkB	5743	InflGene	Cluster
+NFkB	4313	InflGene	Cluster
+NFkB	4314	InflGene	Cluster
+NFkB	4318	InflGene	Cluster
+NFkB	595	Gene	Cluster
+NFkB	332	Gene	Cluster
+NFkB	597	Gene	Cluster
+NFkB	599	Gene	Cluster
+NFkB	5971	Gene	Cluster
+NFkB	112398	Gene	Cluster
+NFkB	5966	Gene	Cluster
+NFkB	8837	Gene	Cluster
+Inflammation	1956	InflGene	Cluster
+Inflammation	5294	Gene	Cluster
+Inflammation	5595	Gene	Cluster
+Inflammation	5290	Gene	Cluster
+Inflammation	5291	Gene	Cluster
+Inflammation	5293	Gene	Cluster
+Inflammation	4312	InflGene	Cluster
+Inflammation	10000	Gene	Cluster
+Inflammation	5743	InflGene	Cluster
+Inflammation	207	InflGene	Cluster
+Inflammation	208	Gene	Cluster
+Inflammation	6714	Gene	Cluster
+Inflammation	3845	InflGene	Cluster
+Inflammation	4893	Gene	Cluster
+Inflammation	2099	Gene	Cluster
+Inflammation	3265	Gene	Cluster
+Inflammation	673	Gene	Cluster
+Inflammation	51365	Gene	Cluster
+Inflammation	5731	Gene	Cluster
+Inflammation	5732	Gene	Cluster
+Inflammation	5733	Gene	Cluster
+Inflammation	5734	Gene	Cluster
+Inflammation	80142	Gene	Cluster
+Inflammation	1588	Gene	Cluster
+Inflammation	4790	InflGene	Cluster
+Inflammation	1432	InflGene	Cluster
+Inflammation	5970	InflGene	Cluster
+Inflammation	3551	Gene	Cluster
+Inflammation	3593	InflGene	Cluster
+Inflammation	3592	InflGene	Cluster
+Inflammation	1147	Gene	Cluster
+Inflammation	56729	InflGene	Cluster
+Inflammation	8517	Gene	Cluster
+Inflammation	5335	Gene	Cluster
+Inflammation	5336	Gene	Cluster
+Inflammation	5330	Gene	Cluster
+Inflammation	5331	Gene	Cluster
+Inflammation	5332	Gene	Cluster
+Inflammation	5333	Gene	Cluster
+Inflammation	113026	Gene	Cluster
+Inflammation	23236	Gene	Cluster
+Inflammation	84812	Gene	Cluster
+Inflammation	51196	Gene	Cluster
+Inflammation	3708	Gene	Cluster
+Immune cell regulation	6351	InflGene	Cluster
+Immune cell regulation	1437	InflGene	Cluster
+Immune cell regulation	3558	InflGene	Cluster
+Immune cell regulation	1236	InflGene	Cluster
+Immune cell regulation	1234	InflGene	Cluster
+Immune cell regulation	1232	InflGene	Cluster
+Immune cell regulation	6348	InflGene	Cluster
+Immune cell regulation	959	InflGene	Cluster
+Immune cell regulation	729230	Gene	Cluster
+Immune cell regulation	7852	Gene	Cluster
+Immune cell regulation	2833	InflGene	Cluster
+Immune cell regulation	3567	InflGene	Cluster
+Immune cell regulation	940	Gene	Cluster
+Immune cell regulation	3566	InflGene	Cluster
+Immune cell regulation	920	Gene	Cluster
+Immune cell regulation	8809	Gene	Cluster
+Immune cell regulation	1233	Gene	Cluster
+Immune cell regulation	1230	Gene	Cluster
+Immune cell regulation	3595	Gene	Cluster
+Immune cell regulation	3594	Gene	Cluster
+Cytokines	7043	Gene	Cluster
+Cytokines	4792	InflGene	Cluster
+Cytokines	7042	Gene	Cluster
+Cytokines	3439	Gene	Cluster
+Cytokines	3557	InflGene	Cluster
+Cytokines	1432	InflGene	Cluster
+Cytokines	3554	InflGene	Cluster
+Cytokines	5599	Gene	Cluster
+Cytokines	3654	Gene	Cluster
+Cytokines	3656	Gene	Cluster
+Cytokines	10454	Gene	Cluster
+Cytokines	5608	Gene	Cluster
+Cytokines	1147	Gene	Cluster
+Cytokines	4214	Gene	Cluster
+Cytokines	4615	InflGene	Cluster
+Cytokines	3725	Gene	Cluster
+Cytokines	5606	Gene	Cluster
+Cytokines	54472	Gene	Cluster
+Cytokines	3556	Gene	Cluster
+Cytokines	51295	Gene	Cluster
+Cytokines	11213	Gene	Cluster
+NFkB	7099	InflGene	Cluster
+NFkB	7097	InflGene	Cluster
+NFkB	7096	Gene	Cluster
+NFkB	54106	InflGene	Cluster
+NFkB	4615	InflGene	Cluster
+NFkB	3725	Gene	Cluster
+NFkB	7100	Gene	Cluster
+NFkB	7334	Gene	Cluster
+NFkB	92610	Gene	Cluster
+NFkB	7335	Gene	Cluster
+NFkB	51284	Gene	Cluster
+NFkB	81793	Gene	Cluster
+NFkB	51311	Gene	Cluster
+NFkB	10333	Gene	Cluster
+Vitamin B12	6352	InflGene	Cluster
+Vitamin B12	348	InflGene	Cluster
+Vitamin B12	326625	Gene	Cluster
+Vitamin B12	6948	Gene	Cluster
+Vitamin B12	6947	Gene	Cluster
+Vitamin B12	8029	Gene	Cluster
+Vitamin B12	4594	Gene	Cluster
+Vitamin B12	4036	Gene	Cluster
+Vitamin B12	2694	Gene	Cluster
+Vitamin B12	84693	Gene	Cluster
+Inflammation	7421	InflGene	Cluster
+Inflammation	5608	Gene	Cluster
+Inflammation	2908	InflGene	Cluster
+Inflammation	4214	Gene	Cluster
+Inflammation	5606	Gene	Cluster
+Inflammation	6256	Gene	Cluster
+Inflammation	4088	Gene	Cluster
+Inflammation	4089	Gene	Cluster
+Inflammation	5530	Gene	Cluster
+Inflammation	4772	Gene	Cluster
+Inflammation	9282	Gene	Cluster
+Inflammation	1843	Gene	Cluster
+Inflammation	5534	Gene	Cluster

@@ -1,0 +1,2 @@
+For RNAseq data we use a R-script to get the logFC and p-value. Later on we merge al gene-expression data in one file for easier usage. 
+Per disease there is a seperate folder which contains the script for that disease and thestatistical results. 
