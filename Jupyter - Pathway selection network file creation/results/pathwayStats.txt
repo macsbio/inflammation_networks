@@ -1,0 +1,33 @@
+pathway	freqInflGene	freqGene	percentage
+KEGG_ALLOGRAFT_REJECTION	17	38	44.74
+KEGG_ASTHMA	11	30	36.67
+KEGG_GRAFT_VERSUS_HOST_DISEASE	13	42	30.95
+KEGG_INTESTINAL_IMMUNE_NETWORK_FOR_IGA_PRODUCTION	15	48	31.25
+KEGG_LEISHMANIA_INFECTION	25	72	34.72
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	19	62	30.65
+KEGG_TYPE_I_DIABETES_MELLITUS	16	44	36.36
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	8	18	44.44
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	9	23	39.13
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	7	21	33.33
+Allograft Rejection%WikiPathways_20181110%WP2328%Homo sapiens	34	90	37.78
+Cells and Molecules involved in local acute inflammatory response%WP4493%Homo sapiens	10	17	58.82
+Control of immune tolerance by vasoactive intestinal peptide%WP4484%Homo sapiens	11	14	78.57
+Cytokines and Inflammatory Response%WikiPathways_20181110%WP530%Homo sapiens	18	27	66.67
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	18	32	56.25
+EBV LMP1 signaling%WikiPathways_20181110%WP262%Homo sapiens	8	24	33.33
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	13	38	34.21
+Folate Metabolism%WikiPathways_20181110%WP176%Homo sapiens	23	70	32.86
+IL-10 Anti-inflammatory Signaling Pathway%WP4495%Homo sapiens	7	13	53.85
+IL1 and megakaryocytes in obesity%WikiPathways_20181110%WP2865%Homo sapiens	16	25	64
+Inflammatory Response Pathway%WikiPathways_20181110%WP453%Homo sapiens	12	33	36.36
+LTF danger signal response pathway%WP4478%Homo sapiens	12	19	63.16
+Lung fibrosis%WikiPathways_20181110%WP3624%Homo sapiens	27	63	42.86
+ncRNAs involved in STAT3 signaling in hepatocellular carcinoma%WikiPathways_20181110%WP4337%Homo sapiens	6	17	35.29
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	7	19	36.84
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20181110%WP3617%Homo sapiens	22	35	62.86
+Resistin as a regulator of inflammation%WP4481%Homo sapiens	11	33	33.33
+Selective expression of chemokine receptors during T-cell polarization%WP4494%Homo sapiens	15	29	51.72
+Signal transduction through IL1R%WP4496%Homo sapiens	12	33	36.36
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20181110%WP3877%Homo sapiens	6	19	31.58
+Vitamin B12 Metabolism%WikiPathways_20181110%WP1533%Homo sapiens	20	53	37.74
+Vitamin D in inflammatory diseases%WP4482%Homo sapiens	8	22	36.36
