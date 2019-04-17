@@ -1,0 +1,1 @@
+In this Jupyter notebook, we extend the network with genes via the STRING app in Cytoscape. In the end we retrieve a node and edge file which we can use for network creation and analysis in Cytoscape in another Jupyter notebook.

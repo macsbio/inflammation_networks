@@ -1,0 +1,672 @@
+pathway	entrezgene
+NFkB	7205
+NFkB	841
+NFkB	1147
+NFkB	257397
+NFkB	2919
+NFkB	8767
+NFkB	7124
+NFkB	330
+NFkB	6347
+NFkB	331
+NFkB	6352
+NFkB	10392
+NFkB	84674
+NFkB	6357
+NFkB	6356
+NFkB	6355
+NFkB	22900
+NFkB	6354
+NFkB	4210
+NFkB	3576
+NFkB	5601
+NFkB	5602
+NFkB	5600
+NFkB	55914
+NFkB	5603
+NFkB	838
+NFkB	3551
+NFkB	64127
+NFkB	6885
+NFkB	834
+NFkB	59082
+NFkB	7128
+NFkB	10910
+NFkB	5595
+NFkB	9051
+NFkB	4790
+NFkB	4793
+NFkB	4792
+NFkB	5594
+NFkB	8517
+NFkB	64170
+NFkB	5599
+NFkB	1432
+NFkB	6300
+NFkB	3606
+NFkB	5970
+NFkB	260434
+NFkB	7189
+NFkB	3320
+NFkB	29108
+NFkB	23118
+NFkB	58484
+NFkB	3553
+NFkB	7184
+NFkB	114548
+NFkB	22861
+NFkB	4671
+NFkB	329
+NFkB	2920
+NFkB	3326
+NFkB	10454
+NFkB	3569
+NFkB	11035
+NFkB	1147
+NFkB	148022
+NFkB	177
+NFkB	3146
+NFkB	351
+NFkB	3551
+NFkB	4791
+NFkB	4792
+NFkB	4793
+NFkB	5970
+NFkB	6283
+NFkB	6285
+NFkB	6288
+NFkB	7098
+NFkB	81030
+NFkB	8517
+NFkB	8737
+NFkB	10392
+NFkB	10454
+NFkB	1147
+NFkB	177
+NFkB	23118
+NFkB	257397
+NFkB	3146
+NFkB	351
+NFkB	3551
+NFkB	3654
+NFkB	3656
+NFkB	4791
+NFkB	4792
+NFkB	4793
+NFkB	5970
+NFkB	6283
+NFkB	6285
+NFkB	6288
+NFkB	64127
+NFkB	6885
+NFkB	7189
+NFkB	8517
+NFkB	8767
+Vitamin_B12	6472
+Vitamin_B12	5340
+Vitamin_B12	326625
+Vitamin_B12	6352
+Vitamin_B12	7124
+Vitamin_B12	2155
+Vitamin_B12	3043
+Vitamin_B12	3039
+Vitamin_B12	2147
+Vitamin_B12	875
+Vitamin_B12	3553
+Vitamin_B12	3630
+Vitamin_B12	6347
+Vitamin_B12	4524
+Vitamin_B12	6948
+Vitamin_B12	6947
+Vitamin_B12	102465534
+Vitamin_B12	12
+Vitamin_B12	4143
+Vitamin_B12	6289
+Vitamin_B12	8029
+Vitamin_B12	6288
+Vitamin_B12	19
+Vitamin_B12	3569
+Vitamin_B12	3643
+Vitamin_B12	4790
+Vitamin_B12	4791
+Vitamin_B12	4594
+Vitamin_B12	4353
+Vitamin_B12	4552
+Vitamin_B12	4036
+Vitamin_B12	2694
+Vitamin_B12	6290
+Vitamin_B12	3383
+Vitamin_B12	6291
+Vitamin_B12	3458
+Vitamin_B12	213
+Vitamin_B12	335
+Vitamin_B12	338
+Vitamin_B12	6647
+Vitamin_B12	6649
+Vitamin_B12	4548
+Vitamin_B12	6648
+Vitamin_B12	100129518
+Vitamin_B12	5054
+Vitamin_B12	5970
+Vitamin_B12	1491
+Vitamin_B12	3949
+Vitamin_B12	1401
+Vitamin_B12	348
+Vitamin_B12	84693
+Vitamin_B12	5327
+Vitamin_B12	949
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	9760
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	7124
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	2672
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	196
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	6095
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	2625
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	374
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	6927
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	64806
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3458
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3578
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	51561
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3553
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	30009
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	50616
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	85480
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	8320
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	4783
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3398
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3574
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3596
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3593
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3592
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3569
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	64919
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3600
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3567
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3565
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	90865
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	7704
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3606
+Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens	3605
+Vitamin_B12	4790
+Vitamin_B12	8991
+Vitamin_B12	7941
+Vitamin_B12	3383
+Vitamin_B12	114548
+Vitamin_B12	2205
+Vitamin_B12	2149
+Vitamin_B12	3458
+Vitamin_B12	2147
+Vitamin_B12	3554
+Vitamin_B12	3553
+Vitamin_B12	1232
+Vitamin_B12	6347
+Vitamin_B12	3654
+Vitamin_B12	1839
+Vitamin_B12	7077
+Vitamin_B12	7076
+Vitamin_B12	100313781
+Vitamin_B12	5290
+Vitamin_B12	6280
+Vitamin_B12	7097
+Vitamin_B12	7096
+Vitamin_B12	4318
+Vitamin_B12	3606
+Vitamin_B12	4615
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	3681
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	7124
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	1282
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	3162
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	581
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	5293
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	3569
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	596
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	1401
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	2335
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	896
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	3576
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	1001
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	3909
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	5742
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	10000
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	5743
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	4798
+Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	5747
+Diseases	6351
+Diseases	3082
+Diseases	653509
+Diseases	6352
+Diseases	5265
+Diseases	7124
+Diseases	6356
+Diseases	7040
+Diseases	4092
+Diseases	3162
+Diseases	57105
+Diseases	1215
+Diseases	796
+Diseases	3479
+Diseases	3553
+Diseases	6348
+Diseases	6347
+Diseases	4204
+Diseases	5154
+Diseases	4780
+Diseases	6440
+Diseases	7015
+Diseases	5155
+Diseases	729230
+Diseases	729238
+Diseases	727897
+Diseases	5073
+Diseases	3569
+Diseases	23250
+Diseases	3567
+Diseases	3565
+Diseases	1906
+Diseases	10144
+Diseases	6696
+Diseases	91039
+Diseases	6498
+Diseases	1440
+Diseases	2252
+Diseases	79991
+Diseases	1437
+Diseases	1832
+Diseases	2920
+Diseases	2006
+Diseases	2247
+Diseases	1950
+Diseases	2246
+Diseases	3576
+Diseases	655
+Diseases	1232
+Diseases	4502
+Diseases	7076
+Diseases	7039
+Diseases	3596
+Diseases	3593
+Diseases	1051
+Diseases	1490
+Diseases	5806
+Diseases	255520
+Diseases	51750
+Diseases	26585
+Diseases	4313
+Diseases	5328
+Diseases	4318
+NFkB	7099
+NFkB	7189
+NFkB	100313781
+NFkB	4790
+NFkB	7100
+NFkB	7334
+NFkB	92610
+NFkB	7335
+NFkB	3552
+NFkB	7097
+NFkB	7096
+NFkB	51284
+NFkB	81793
+NFkB	51311
+NFkB	3654
+NFkB	54106
+NFkB	10333
+NFkB	4615
+NFkB	3725
+NFkB	4790
+NFkB	7189
+NFkB	4791
+NFkB	7422
+NFkB	7124
+NFkB	3383
+NFkB	1437
+NFkB	330
+NFkB	595
+NFkB	3558
+NFkB	2920
+NFkB	332
+NFkB	597
+NFkB	599
+NFkB	3576
+NFkB	3553
+NFkB	959
+NFkB	7132
+NFkB	5970
+NFkB	6401
+NFkB	5971
+NFkB	112398
+NFkB	7412
+NFkB	3552
+NFkB	3551
+NFkB	3569
+NFkB	1147
+NFkB	4312
+NFkB	5743
+NFkB	4313
+NFkB	329
+NFkB	4314
+NFkB	5966
+NFkB	8837
+NFkB	4318
+Cytokines	7187
+Cytokines	132014
+Cytokines	7189
+Cytokines	112744
+Cytokines	4790
+Cytokines	4793
+Cytokines	6774
+Cytokines	23765
+Cytokines	84818
+Cytokines	9020
+Cytokines	53342
+Cytokines	64806
+Cytokines	3716
+Cytokines	3717
+Cytokines	10758
+Cytokines	55540
+Cytokines	27189
+Cytokines	6667
+Cytokines	54756
+Cytokines	5594
+Cytokines	5595
+Cytokines	5970
+Cytokines	6885
+Cytokines	3551
+Cytokines	1052
+Cytokines	1051
+Cytokines	2932
+Cytokines	27190
+Cytokines	8517
+Cytokines	207
+Cytokines	3605
+Cytokines	5580
+Cytokines	6198
+Cytokines	5781
+Cytokines	6772
+Cytokines	6654
+Cytokines	6774
+Cytokines	3065
+Cytokines	9021
+Cytokines	572
+Cytokines	3716
+Cytokines	3717
+Cytokines	2885
+Cytokines	598
+Cytokines	8648
+Cytokines	639
+Cytokines	5879
+Cytokines	51701
+Cytokines	2549
+Cytokines	3659
+Cytokines	7297
+Cytokines	5295
+Cytokines	7076
+Cytokines	5296
+Cytokines	5594
+Cytokines	5595
+Cytokines	6464
+Cytokines	7432
+Cytokines	6885
+Cytokines	3055
+Cytokines	3572
+Cytokines	3570
+Cytokines	2063
+Cytokines	183
+Cytokines	3726
+Cytokines	2932
+Cytokines	3569
+Cytokines	1401
+Cytokines	1387
+Cytokines	207
+Cytokines	6416
+Cytokines	5604
+Cytokines	5605
+Cytokines	7409
+Cytokines	7124
+Cytokines	1440
+Cytokines	3123
+Cytokines	3562
+Cytokines	3122
+Cytokines	7040
+Cytokines	1437
+Cytokines	1435
+Cytokines	3558
+Cytokines	2920
+Cytokines	3458
+Cytokines	3456
+Cytokines	3553
+Cytokines	105369230
+Cytokines	5154
+Cytokines	3552
+Cytokines	3596
+Cytokines	3574
+Cytokines	3593
+Cytokines	3569
+Cytokines	3600
+Cytokines	3567
+Cytokines	3589
+Cytokines	3565
+Cytokines	3586
+Cytokines	920
+Cytokines	2919
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	929
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	5340
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	7189
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	4790
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	114609
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	6850
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	7124
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3661
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3684
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	23643
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	148022
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	2921
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3456
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	83593
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	6347
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3654
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	4843
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3656
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	7099
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	7098
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	100313781
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	353376
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3551
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3593
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3569
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	387
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	1147
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3929
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	51135
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	7305
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	207
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	8517
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	868
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	5327
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3689
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	6714
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	4615
+Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	3627
+Inflammation	56729
+Inflammation	5595
+Inflammation	5594
+Inflammation	1432
+Inflammation	5290
+Inflammation	5291
+Inflammation	5293
+Inflammation	5294
+Inflammation	207
+Inflammation	208
+Inflammation	10000
+Inflammation	4790
+Inflammation	4792
+Inflammation	23236
+Inflammation	5330
+Inflammation	5331
+Inflammation	5332
+Inflammation	5335
+Inflammation	5336
+Inflammation	5333
+Inflammation	84812
+Inflammation	113026
+Inflammation	51196
+Inflammation	3569
+Inflammation	3576
+Inflammation	7124
+Inflammation	3593
+Inflammation	3592
+Inflammation	1147
+Inflammation	3551
+Inflammation	8517
+Inflammation	5970
+Inflammation	3708
+Inflammation	80142
+Inflammation	5731
+Inflammation	5732
+Inflammation	5733
+Inflammation	5734
+Inflammation	2099
+Inflammation	6714
+Inflammation	4312
+Inflammation	1588
+Inflammation	3845
+Inflammation	4893
+Inflammation	3265
+Inflammation	673
+Inflammation	5743
+Inflammation	51365
+Inflammation	1956
+Inflammation	5290
+Inflammation	5291
+Inflammation	5293
+Inflammation	5294
+Inflammation	207
+Inflammation	208
+Inflammation	10000
+Inflammation	5595
+Inflammation	5594
+Inflammation	929
+Inflammation	3552
+Inflammation	3553
+Inflammation	3654
+Inflammation	51135
+Inflammation	4057
+Inflammation	4615
+Inflammation	7097
+Inflammation	7099
+Inflammation	7189
+Inflammation	54210
+Inflammation	5594
+Inflammation	177
+Inflammation	4792
+Inflammation	3569
+Inflammation	3576
+Inflammation	7124
+Inflammation	3439
+Inflammation	3456
+Allograft_rejection	7432
+Allograft_rejection	941
+Allograft_rejection	942
+Allograft_rejection	940
+Allograft_rejection	355
+Allograft_rejection	3592
+Allograft_rejection	3592
+Allograft_rejection	3458
+Allograft_rejection	3558
+Allograft_rejection	3565
+Allograft_rejection	3567
+Allograft_rejection	3586
+Allograft_rejection	1493
+Allograft_rejection	7040
+Immune_cell_regulation	718
+Immune_cell_regulation	727
+Immune_cell_regulation	729
+Immune_cell_regulation	730
+Immune_cell_regulation	3383
+Immune_cell_regulation	3552
+Immune_cell_regulation	3569
+Immune_cell_regulation	3576
+Immune_cell_regulation	3676
+Immune_cell_regulation	3683
+Immune_cell_regulation	3688
+Immune_cell_regulation	3689
+Immune_cell_regulation	3827
+Immune_cell_regulation	6403
+Immune_cell_regulation	6404
+Immune_cell_regulation	7124
+Immune_cell_regulation	7412
+Cytokines	1147
+Cytokines	51295
+Cytokines	3439
+Cytokines	3456
+Cytokines	3551
+Cytokines	3552
+Cytokines	3553
+Cytokines	3554
+Cytokines	3556
+Cytokines	3557
+Cytokines	3569
+Cytokines	3654
+Cytokines	3656
+Cytokines	11213
+Cytokines	3725
+Cytokines	5606
+Cytokines	5608
+Cytokines	4212
+Cytokines	9020
+Cytokines	6885
+Cytokines	1432
+Cytokines	5599
+Cytokines	4615
+Cytokines	4790
+Cytokines	4792
+Cytokines	5970
+Cytokines	10454
+Cytokines	7040
+Cytokines	7042
+Cytokines	7043
+Cytokines	7124
+Cytokines	54472
+Cytokines	7189
+Immune_cell_regulation	6384
+Immune_cell_regulation	6351
+Immune_cell_regulation	1230
+Immune_cell_regulation	729230
+Immune_cell_regulation	1232
+Immune_cell_regulation	1233
+Immune_cell_regulation	1234
+Immune_cell_regulation	1236
+Immune_cell_regulation	940
+Immune_cell_regulation	959
+Immune_cell_regulation	920
+Immune_cell_regulation	1437
+Immune_cell_regulation	2833
+Immune_cell_regulation	7852
+Immune_cell_regulation	3458
+Immune_cell_regulation	3459
+Immune_cell_regulation	3460
+Immune_cell_regulation	3592
+Immune_cell_regulation	3593
+Immune_cell_regulation	3594
+Immune_cell_regulation	3595
+Immune_cell_regulation	8809
+Immune_cell_regulation	3558
+Immune_cell_regulation	3565
+Immune_cell_regulation	3566
+Immune_cell_regulation	3567
+Immune_cell_regulation	7040
+Immune_cell_regulation	7042
+Immune_cell_regulation	7043
+Cytokines	644
+Cytokines	645
+Cytokines	3162
+Cytokines	3586
+Cytokines	3587
+Cytokines	3588
+Cytokines	3552
+Cytokines	3569
+Cytokines	3716
+Cytokines	6772
+Cytokines	6773
+Cytokines	6774
+Cytokines	7214

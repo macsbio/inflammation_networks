@@ -1,7 +1,4 @@
 pathway
-KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY
-REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI
-REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX
 Cells and Molecules involved in local acute inflammatory response%WP4493%Homo sapiens
 Control of immune tolerance by vasoactive intestinal peptide%WP4484%Homo sapiens
 Cytokines and Inflammatory Response%WikiPathways_20181110%WP530%Homo sapiens
@@ -9,10 +6,13 @@ Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Hom
 Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens
 IL-10 Anti-inflammatory Signaling Pathway%WP4495%Homo sapiens
 IL1 and megakaryocytes in obesity%WikiPathways_20181110%WP2865%Homo sapiens
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY
 LTF danger signal response pathway%WP4478%Homo sapiens
 Lung fibrosis%WikiPathways_20181110%WP3624%Homo sapiens
 Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens
 Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20181110%WP3617%Homo sapiens
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX
 Resistin as a regulator of inflammation%WP4481%Homo sapiens
 Selective expression of chemokine receptors during T-cell polarization%WP4494%Homo sapiens
 Signal transduction through IL1R%WP4496%Homo sapiens

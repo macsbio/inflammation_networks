@@ -1,7 +1,4 @@
 pathway	freqInflGene	freqGene	percentage
-KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	19	62	30.65
-REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6	18	33.33
-REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	7	23	30.43
 Cells and Molecules involved in local acute inflammatory response%WP4493%Homo sapiens	10	17	58.82
 Control of immune tolerance by vasoactive intestinal peptide%WP4484%Homo sapiens	7	14	50
 Cytokines and Inflammatory Response%WikiPathways_20181110%WP530%Homo sapiens	14	27	51.85
@@ -9,10 +6,13 @@ Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Hom
 Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens	12	38	31.58
 IL-10 Anti-inflammatory Signaling Pathway%WP4495%Homo sapiens	5	13	38.46
 IL1 and megakaryocytes in obesity%WikiPathways_20181110%WP2865%Homo sapiens	13	25	52
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	19	62	30.65
 LTF danger signal response pathway%WP4478%Homo sapiens	10	19	52.63
 Lung fibrosis%WikiPathways_20181110%WP3624%Homo sapiens	24	63	38.1
 Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens	6	19	31.58
 Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20181110%WP3617%Homo sapiens	20	35	57.14
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6	18	33.33
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	7	23	30.43
 Resistin as a regulator of inflammation%WP4481%Homo sapiens	10	33	30.3
 Selective expression of chemokine receptors during T-cell polarization%WP4494%Homo sapiens	10	29	34.48
 Signal transduction through IL1R%WP4496%Homo sapiens	10	33	30.3
