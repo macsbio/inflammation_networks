@@ -379,7 +379,7 @@ Cytokines	CXCL2
 Cytokines	IFNG
 Cytokines	IFNB1
 Cytokines	IL1B
-Cytokines	LOC105369230
+Cytokines	HLA-DRB1
 Cytokines	PDGFA
 Cytokines	IL1A
 Cytokines	IL13

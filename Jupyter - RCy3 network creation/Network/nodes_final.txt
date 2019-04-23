@@ -253,7 +253,7 @@ HLA-DRB1	Gene
 IL3	Gene
 HLA-DRA	Gene
 CSF1	InflGene
-LOC105369230	Gene
+HLA-DRB1	Gene
 PDGFA	Gene
 IL13	InflGene
 IL7	Gene
