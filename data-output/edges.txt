@@ -1,0 +1,451 @@
+pathway	entrezgene	hgnc_symbol
+NFkB	7205	TRIP6
+NFkB	841	CASP8
+NFkB	1147	CHUK
+NFkB	257397	TAB3
+NFkB	2919	CXCL1
+NFkB	8767	RIPK2
+NFkB	7124	TNF
+NFkB	330	BIRC3
+NFkB	6347	CCL2
+NFkB	331	XIAP
+NFkB	6352	CCL5
+NFkB	10392	NOD1
+NFkB	84674	CARD6
+NFkB	6357	CCL13
+NFkB	6356	CCL11
+NFkB	6355	CCL8
+NFkB	22900	CARD8
+NFkB	6354	CCL7
+NFkB	4210	MEFV
+NFkB	3576	CXCL8
+NFkB	5601	MAPK9
+NFkB	5602	MAPK10
+NFkB	5600	MAPK11
+NFkB	55914	ERBIN
+NFkB	5603	MAPK13
+NFkB	838	CASP5
+NFkB	3551	IKBKB
+NFkB	64127	NOD2
+NFkB	6885	MAP3K7
+NFkB	834	CASP1
+NFkB	59082	CARD18
+NFkB	7128	TNFAIP3
+NFkB	10910	SUGT1
+NFkB	5595	MAPK3
+NFkB	9051	PSTPIP1
+NFkB	4790	NFKB1
+NFkB	4793	NFKBIB
+NFkB	4792	NFKBIA
+NFkB	5594	MAPK1
+NFkB	8517	IKBKG
+NFkB	64170	CARD9
+NFkB	5599	MAPK8
+NFkB	1432	MAPK14
+NFkB	6300	MAPK12
+NFkB	3606	IL18
+NFkB	5970	RELA
+NFkB	260434	PYDC1
+NFkB	7189	TRAF6
+NFkB	3320	HSP90AA1
+NFkB	29108	PYCARD
+NFkB	23118	TAB2
+NFkB	58484	NLRC4
+NFkB	3553	IL1B
+NFkB	7184	HSP90B1
+NFkB	114548	NLRP3
+NFkB	22861	NLRP1
+NFkB	4671	NAIP
+NFkB	329	BIRC2
+NFkB	2920	CXCL2
+NFkB	3326	HSP90AB1
+NFkB	10454	TAB1
+NFkB	3569	IL6
+NFkB	11035	RIPK3
+NFkB	148022	
+NFkB	177	AGER
+NFkB	3146	HMGB1
+NFkB	351	APP
+NFkB	4791	NFKB2
+NFkB	6283	S100A12
+NFkB	6285	S100B
+NFkB	6288	SAA1
+NFkB	7098	TLR3
+NFkB	81030	ZBP1
+NFkB	8737	RIPK1
+NFkB	3654	IRAK1
+NFkB	3656	IRAK2
+NFkB	23586	DDX58
+NFkB	4214	MAP3K1
+NFkB	57506	MAVS
+NFkB	64135	IFIH1
+NFkB	7186	TRAF2
+NFkB	7706	TRIM25
+NFkB	84282	RNF135
+NFkB	3665	IRF7
+NFkB	387522	TMEM189-UBE2V1
+NFkB	4615	MYD88
+NFkB	51135	IRAK4
+NFkB	51284	TLR7
+NFkB	51311	TLR8
+NFkB	54106	TLR9
+NFkB	7334	UBE2N
+Inflammation	1650	DDOST
+Inflammation	177	AGER
+Inflammation	3146	HMGB1
+Inflammation	351	APP
+Inflammation	3958	LGALS3
+Inflammation	5589	PRKCSH
+Inflammation	5594	MAPK1
+Inflammation	5595	MAPK3
+Inflammation	6283	S100A12
+Inflammation	6285	S100B
+Inflammation	6288	SAA1
+Inflammation	829	CAPZA1
+Inflammation	830	CAPZA2
+Cytokines	3569	IL6
+Cytokines	3570	IL6R
+Cytokines	3572	IL6ST
+Cytokines	3716	JAK1
+Cytokines	3717	JAK2
+Cytokines	6772	STAT1
+Cytokines	6774	STAT3
+Cytokines	7297	TYK2
+Cytokines	867	CBL
+Cytokines	9021	SOCS3
+Inflammation	10628	TXNIP
+Inflammation	114548	NLRP3
+Inflammation	24145	PANX1
+Inflammation	29108	PYCARD
+Inflammation	3326	HSP90AB1
+Inflammation	4210	MEFV
+Inflammation	5027	P2RX7
+Inflammation	7295	TXN
+Inflammation	834	CASP1
+Inflammation	9051	PSTPIP1
+Complement	10747	MASP2
+Complement	1401	CRP
+Complement	4153	MBL2
+Complement	5648	MASP1
+Complement	712	C1QA
+Complement	713	C1QB
+Complement	714	C1QC
+Complement	716	C1S
+Vitamin B12	6472	SHMT2
+Vitamin B12	5340	PLG
+Vitamin B12	326625	MMAB
+Vitamin B12	6352	CCL5
+Vitamin B12	7124	TNF
+Vitamin B12	2155	F7
+Vitamin B12	3043	HBB
+Vitamin B12	3039	HBA1
+Vitamin B12	2147	F2
+Vitamin B12	875	CBS
+Vitamin B12	3553	IL1B
+Vitamin B12	3630	INS
+Vitamin B12	6347	CCL2
+Vitamin B12	4524	MTHFR
+Vitamin B12	6948	TCN2
+Vitamin B12	6947	TCN1
+Vitamin B12	12	SERPINA3
+Vitamin B12	4143	MAT1A
+Vitamin B12	6289	SAA2
+Vitamin B12	8029	CUBN
+Vitamin B12	6288	SAA1
+Vitamin B12	19	ABCA1
+Vitamin B12	3569	IL6
+Vitamin B12	3643	INSR
+Vitamin B12	4790	NFKB1
+Vitamin B12	4791	NFKB2
+Vitamin B12	4594	MMUT
+Vitamin B12	4353	MPO
+Vitamin B12	4552	MTRR
+Vitamin B12	4036	LRP2
+Vitamin B12	2694	CBLIF
+Vitamin B12	3383	ICAM1
+Vitamin B12	6291	SAA4
+Vitamin B12	3458	IFNG
+Vitamin B12	213	ALB
+Vitamin B12	335	APOA1
+Vitamin B12	338	APOB
+Vitamin B12	6647	SOD1
+Vitamin B12	6649	SOD3
+Vitamin B12	4548	MTR
+Vitamin B12	6648	
+Vitamin B12	5054	SERPINE1
+Vitamin B12	5970	RELA
+Vitamin B12	1491	CTH
+Vitamin B12	3949	LDLR
+Vitamin B12	1401	CRP
+Vitamin B12	348	APOE
+Vitamin B12	84693	MCEE
+Vitamin B12	5327	PLAT
+Vitamin B12	949	SCARB1
+Immune cells	9760	TOX
+Immune cells	7124	TNF
+Immune cells	2672	GFI1
+Immune cells	196	AHR
+Immune cells	6095	RORA
+Immune cells	2625	GATA3
+Immune cells	374	AREG
+Immune cells	6927	HNF1A
+Immune cells	64806	IL25
+Immune cells	3458	IFNG
+Immune cells	3578	IL9
+Immune cells	51561	IL23A
+Immune cells	3553	IL1B
+Immune cells	30009	TBX21
+Immune cells	50616	IL22
+Immune cells	85480	TSLP
+Immune cells	8320	EOMES
+Immune cells	4783	NFIL3
+Immune cells	3398	ID2
+Immune cells	3574	IL7
+Immune cells	3596	IL13
+Immune cells	3593	IL12B
+Immune cells	3592	IL12A
+Immune cells	3569	IL6
+Immune cells	64919	BCL11B
+Immune cells	3600	IL15
+Immune cells	3567	IL5
+Immune cells	3565	IL4
+Immune cells	90865	IL33
+Immune cells	7704	ZBTB16
+Immune cells	3606	IL18
+Immune cells	3605	IL17A
+Metabolism	6098	ROS1
+Metabolism	4790	NFKB1
+Metabolism	3091	HIF1A
+Metabolism	7019	TFAM
+Metabolism	5468	PPARG
+Metabolism	23410	SIRT3
+Metabolism	23411	SIRT1
+Metabolism	10135	NAMPT
+Metabolism	2309	FOXO3
+Metabolism	2308	FOXO1
+Metabolism	142	PARP1
+Inflammation	3681	ITGAD
+Inflammation	7124	TNF
+Inflammation	1282	COL4A1
+Inflammation	3162	HMOX1
+Inflammation	581	BAX
+Inflammation	5293	PIK3CD
+Inflammation	3569	IL6
+Inflammation	596	BCL2
+Inflammation	1401	CRP
+Inflammation	2335	FN1
+Inflammation	896	CCND3
+Inflammation	3576	CXCL8
+Inflammation	1001	CDH3
+Inflammation	3909	LAMA3
+Inflammation	5742	PTGS1
+Inflammation	10000	AKT3
+Inflammation	5743	PTGS2
+Inflammation	4798	NFRKB
+Inflammation	5747	PTK2
+NFkB	7099	TLR4
+NFkB	7100	TLR5
+NFkB	92610	TIFA
+NFkB	7335	UBE2V1
+NFkB	3552	IL1A
+NFkB	7097	TLR2
+NFkB	7096	TLR1
+NFkB	81793	TLR10
+NFkB	10333	TLR6
+NFkB	3725	JUN
+NFkB	7422	VEGFA
+NFkB	3383	ICAM1
+NFkB	1437	CSF2
+NFkB	595	CCND1
+NFkB	3558	IL2
+NFkB	332	BIRC5
+NFkB	597	BCL2A1
+NFkB	599	BCL2L2
+NFkB	959	CD40LG
+NFkB	7132	TNFRSF1A
+NFkB	6401	SELE
+NFkB	5971	RELB
+NFkB	112398	EGLN2
+NFkB	7412	VCAM1
+NFkB	4312	MMP1
+NFkB	5743	PTGS2
+NFkB	4313	MMP2
+NFkB	4314	MMP3
+NFkB	5966	REL
+NFkB	8837	CFLAR
+NFkB	4318	MMP9
+Development	1116	CHI3L1
+Development	4609	MYC
+Development	7157	TP53
+Development	6774	STAT3
+Development	999	CDH1
+Development	3572	IL6ST
+Development	9021	SOCS3
+Development	1869	E2F1
+Development	4318	MMP9
+Development	581	BAX
+Angiogenesis	7077	TIMP2
+Angiogenesis	7010	TEK
+Angiogenesis	4086	SMAD1
+Angiogenesis	3091	HIF1A
+Angiogenesis	5594	MAPK1
+Angiogenesis	7078	TIMP3
+Angiogenesis	5155	PDGFB
+Angiogenesis	7422	VEGFA
+Angiogenesis	3791	KDR
+Angiogenesis	5156	PDGFRA
+Angiogenesis	2263	FGFR2
+Angiogenesis	5290	PIK3CA
+Angiogenesis	284	ANGPT1
+Angiogenesis	2247	FGF2
+Angiogenesis	1432	MAPK14
+Angiogenesis	1387	CREBBP
+Angiogenesis	2321	FLT1
+Angiogenesis	5335	PLCG1
+Angiogenesis	405	ARNT
+Angiogenesis	207	AKT1
+Angiogenesis	5747	PTK2
+Angiogenesis	6714	SRC
+Angiogenesis	4846	NOS3
+Angiogenesis	4318	MMP9
+NFkB	7187	TRAF3
+NFkB	9641	IKBKE
+NFkB	114609	TIRAP
+NFkB	3661	IRF3
+NFkB	54472	TOLLIP
+NFkB	353376	TICAM2
+NFkB	29110	TBK1
+NFkB	3690	ITGB3
+NFkB	6696	SPP1
+NFkB	9020	MAP3K14
+NFkB	3685	ITGAV
+NFkB	5328	PLAU
+NFkB	5604	MAP2K1
+Metabolism	341208	HEPHL1
+Metabolism	48	ACO1
+Metabolism	7037	TFRC
+Metabolism	4891	SLC11A2
+Metabolism	7036	TFR2
+Metabolism	57817	HAMP
+Metabolism	7018	TF
+Metabolism	2495	FTH1
+Metabolism	30061	SLC40A1
+Metabolism	57192	MCOLN1
+Metabolism	55240	STEAP3
+Metabolism	3658	IREB2
+Angiogenesis	4142	MAS1
+Angiogenesis	5972	REN
+Angiogenesis	7040	
+Angiogenesis	59272	ACE2
+Angiogenesis	183	AGT
+Angiogenesis	185	AGTR1
+Angiogenesis	186	AGTR2
+Angiogenesis	3827	KNG1
+Angiogenesis	1215	CMA1
+Angiogenesis	1511	CTSG
+Angiogenesis	1585	CYP11B2
+Angiogenesis	623	BDKRB1
+Angiogenesis	624	BDKRB2
+Angiogenesis	4306	NR3C2
+Angiogenesis	1636	ACE
+Angiogenesis	10159	ATP6AP2
+Inflammation	7099	TLR4
+Inflammation	929	CD14
+Inflammation	7189	TRAF6
+Inflammation	4790	NFKB1
+Inflammation	4057	LTF
+Inflammation	3552	IL1A
+Inflammation	7097	TLR2
+Inflammation	3439	IFNA1
+Inflammation	54210	TREM1
+Inflammation	3456	IFNB1
+Inflammation	51135	IRAK4
+Inflammation	3553	IL1B
+Inflammation	3654	IRAK1
+Inflammation	4615	MYD88
+Cytokines	7124	TNF
+Cytokines	1440	CSF3
+Cytokines	3123	HLA-DRB1
+Cytokines	3562	IL3
+Cytokines	3122	HLA-DRA
+Cytokines	7040	
+Cytokines	1437	CSF2
+Cytokines	1435	CSF1
+Cytokines	3558	IL2
+Cytokines	2920	CXCL2
+Cytokines	3458	IFNG
+Cytokines	3456	IFNB1
+Cytokines	3553	IL1B
+Cytokines	5154	PDGFA
+Cytokines	3552	IL1A
+Cytokines	3596	IL13
+Cytokines	3574	IL7
+Cytokines	3593	IL12B
+Cytokines	3600	IL15
+Cytokines	3567	IL5
+Cytokines	3589	IL11
+Cytokines	3565	IL4
+Cytokines	3586	IL10
+Cytokines	920	CD4
+Cytokines	2919	CXCL1
+Immune cells	3683	ITGAL
+Immune cells	7412	VCAM1
+Immune cells	3552	IL1A
+Immune cells	3383	ICAM1
+Immune cells	3827	KNG1
+Immune cells	730	C7
+Immune cells	3576	CXCL8
+Immune cells	6403	SELP
+Immune cells	3676	ITGA4
+Immune cells	6404	SELPLG
+Immune cells	3688	ITGB1
+Immune cells	727	C5
+Immune cells	3689	ITGB2
+Immune cells	718	C3
+Immune cells	729	C6
+Cytokines	6773	STAT2
+Cytokines	3588	IL10RB
+Cytokines	644	BLVRA
+Cytokines	3587	IL10RA
+Cytokines	645	BLVRB
+Cytokines	3162	HMOX1
+Cytokines	7043	TGFB3
+Cytokines	4790	NFKB1
+Cytokines	7189	TRAF6
+Cytokines	4792	NFKBIA
+Cytokines	7042	TGFB2
+Cytokines	9020	MAP3K14
+Cytokines	3439	IFNA1
+Cytokines	54472	TOLLIP
+Cytokines	3557	IL1RN
+Cytokines	3556	IL1RAP
+Cytokines	1432	MAPK14
+Cytokines	3554	IL1R1
+Cytokines	5599	MAPK8
+Cytokines	3654	IRAK1
+Cytokines	3656	IRAK2
+Cytokines	10454	TAB1
+Cytokines	5970	RELA
+Cytokines	6885	MAP3K7
+Cytokines	3551	IKBKB
+Cytokines	5608	MAP2K6
+Cytokines	51295	ECSIT
+Cytokines	1147	CHUK
+Cytokines	4214	MAP3K1
+Cytokines	11213	IRAK3
+Cytokines	4615	MYD88
+Cytokines	5606	MAP2K3
+Cytokines	3725	JUN
+Cytokines	7099	TLR4
+Cytokines	5196	PF4
+Cytokines	6352	CCL5
+Cytokines	6401	SELE
+Cytokines	7412	VCAM1
+Cytokines	3383	ICAM1
+Cytokines	7097	TLR2
+Cytokines	51284	TLR7
+Cytokines	6403	SELP
+Cytokines	6347	CCL2
+Cytokines	6404	SELPLG
+Cytokines	958	CD40
+Cytokines	959	CD40LG

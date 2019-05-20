@@ -1,0 +1,429 @@
+diseaseid	disease_name	geneid	symbol	uniprot	protein_class	gene_name	dsi	dpi	pli	score	el	ei	npmids	nsnps	year_initial	year_final
+C0021368	Inflammation	3576	CXCL8	P10145	signaling molecule	C-X-C motif chemokine ligand 8	0.342	0.862		0.4	no reported evidence		13	0	2003.0	2015.0
+C0021368	Inflammation	1401	CRP	P02741		C-reactive protein	0.399	0.862	0.0037357	0.4	no reported evidence		18	0	2001.0	2011.0
+C0021368	Inflammation	7124	TNF	P01375	signaling molecule	tumor necrosis factor	0.263	0.966	0.8046	0.4	no reported evidence		26	0	2001.0	2014.0
+C0021368	Inflammation	7040	TGFB1	P01137	signaling molecule	transforming growth factor beta 1	0.336	0.931	0.17182	0.38	no reported evidence		10	0	2002.0	2010.0
+C0021368	Inflammation	3569	IL6	P05231		interleukin 6	0.287	0.966	0.33873	0.37	no reported evidence		18	0	2001.0	2016.0
+C0021368	Inflammation	3553	IL1B	P01584		interleukin 1 beta	0.312	0.931	0.12568	0.37	no reported evidence		16	0	1999.0	2017.0
+C0021368	Inflammation	3952	LEP	P41159		leptin	0.4	0.793	0.38947	0.37	no reported evidence		9	0	2003.0	2017.0
+C0021368	Inflammation	5743	PTGS2	P35354	oxidoreductase	prostaglandin-endoperoxide synthase 2	0.338	0.897	0.99639	0.37	no reported evidence		10	0	2001.0	2009.0
+C0021368	Inflammation	9370	ADIPOQ	Q15848		adiponectin, C1Q and collagen domain containing	0.485	0.724	5.0074e-09	0.36	no reported evidence		7	0	2004.0	2008.0
+C0021368	Inflammation	3458	IFNG	P01579		interferon gamma	0.323	0.897	0.47138	0.36	no reported evidence		9	0	2003.0	2013.0
+C0021368	Inflammation	7097	TLR2	O60603		toll like receptor 2	0.407	0.897	5.5957e-07	0.36	no reported evidence		7	0	2005.0	2012.0
+C0021368	Inflammation	4282	MIF	P14174		macrophage migration inhibitory factor	0.457	0.862	0.011685	0.36	no reported evidence		7	0	2003.0	2011.0
+C0021368	Inflammation	7099	TLR4	O00206		toll like receptor 4	0.359	0.931	5.5849e-09	0.35	no reported evidence		9	0	2005.0	2012.0
+C0021368	Inflammation	3162	HMOX1	P09601	oxidoreductase	heme oxygenase 1	0.403	0.862	0.0078856	0.35	no reported evidence		7	0	2003.0	2013.0
+C0021368	Inflammation	3383	ICAM1	P05362		intercellular adhesion molecule 1	0.386	0.897	0.038102	0.35	no reported evidence		7	0	2002.0	2014.0
+C0021368	Inflammation	3586	IL10	P22301		interleukin 10	0.32	0.931	0.0065063	0.35	no reported evidence		6	0	2001.0	2008.0
+C0021368	Inflammation	3605	IL17A	Q16552		interleukin 17A	0.391	0.862	0.044037	0.35	no reported evidence		6	0	2003.0	2012.0
+C0021368	Inflammation	4318	MMP9	P14780	hydrolase; protease	matrix metallopeptidase 9	0.339	0.862	7.0286e-18	0.34	no reported evidence		6	0	2003.0	2015.0
+C0021368	Inflammation	2150	F2RL1	P55085		F2R like trypsin receptor 1	0.514	0.724	0.00079765	0.34	no reported evidence		6	0	2003.0	2015.0
+C0021368	Inflammation	6347	CCL2	P13500	signaling molecule	C-C motif chemokine ligand 2	0.353	0.897	0.61778	0.34	no reported evidence		7	0	2003.0	2011.0
+C0021368	Inflammation	3146	HMGB1	P09429	nucleic acid binding; signaling molecule; transcription factor	high mobility group box 1	0.433	0.828	0.83018	0.34	no reported evidence		9	0	2002.0	2013.0
+C0021368	Inflammation	627	BDNF	P23560	signaling molecule	brain derived neurotrophic factor	0.382	0.828	0.69969	0.33	no reported evidence		4	0	2003.0	2011.0
+C0021368	Inflammation	7422	VEGFA	P15692	signaling molecule	vascular endothelial growth factor A	0.298	0.897	2.651e-05	0.33	no reported evidence		4	0	2004.0	2009.0
+C0021368	Inflammation	4353	MPO	P05164	oxidoreductase	myeloperoxidase	0.435	0.931	6.8206e-15	0.33	no reported evidence		8	0	1999.0	2014.0
+C0021368	Inflammation	6647	SOD1	P00441	oxidoreductase	superoxide dismutase 1	0.406	0.931	0.12829	0.33	no reported evidence		4	0	2005.0	2013.0
+C0021368	Inflammation	7442	TRPV1	Q8NER1	transporter	transient receptor potential cation channel subfamily V member 1	0.532	0.724	8.2335e-17	0.32	no reported evidence		4	0	2007.0	2011.0
+C0021368	Inflammation	3557	IL1RN	P18510		interleukin 1 receptor antagonist	0.398	0.897	0.033509	0.32	no reported evidence		3	0	2004.0	2015.0
+C0021368	Inflammation	5468	PPARG	P37231	nucleic acid binding; receptor; transcription factor	peroxisome proliferator activated receptor gamma	0.388	0.828	0.1447	0.32	no reported evidence		4	0	2006.0	2011.0
+C0021368	Inflammation	142	PARP1	P09874		poly(ADP-ribose) polymerase 1	0.432	0.862	0.00055174	0.32	no reported evidence		3	0	2004.0	2008.0
+C0021368	Inflammation	7356	SCGB1A1	P11684	signaling molecule	secretoglobin family 1A member 1	0.592	0.552	0.00055424	0.31	no reported evidence		2	0	2005.0	2005.0
+C0021368	Inflammation	4803	NGF	P01138	signaling molecule	nerve growth factor	0.426	0.862	0.76021	0.31	no reported evidence		2	0	2000.0	2003.0
+C0021368	Inflammation	3596	IL13	P35225		interleukin 13	0.421	0.828	0.013298	0.31	no reported evidence		2	0	2007.0	2013.0
+C0021368	Inflammation	4843	NOS2	P35228		nitric oxide synthase 2	0.385	0.931	1.4648e-14	0.31	no reported evidence		3	0	2001.0	2014.0
+C0021368	Inflammation	2247	FGF2	P09038	signaling molecule	fibroblast growth factor 2	0.404	0.897	0.019149	0.31	no reported evidence		2	0	2002.0	2011.0
+C0021368	Inflammation	5329	PLAUR	Q03405		plasminogen activator, urokinase receptor	0.561	0.586	0.0061419	0.31	no reported evidence		2	0	2002.0	2012.0
+C0021368	Inflammation	10544	PROCR	Q9UNN8	enzyme modulator; receptor	protein C receptor	0.598	0.552	0.0056892	0.31	no reported evidence		2	0	2005.0	2014.0
+C0021368	Inflammation	2149	F2R	P25116		coagulation factor II thrombin receptor	0.478	0.759	0.0057701	0.31	no reported evidence		2	0	2007.0	2010.0
+C0021368	Inflammation	3620	IDO1	P14902		indoleamine 2,3-dioxygenase 1	0.532	0.862	1.9364e-06	0.31	no reported evidence		2	0	2006.0	2007.0
+C0021368	Inflammation	1241	LTB4R	Q15722	receptor	leukotriene B4 receptor	0.624	0.552	0.11611	0.31	no reported evidence		2	0	2000.0	2005.0
+C0021368	Inflammation	1437	CSF2	P04141	signaling molecule	colony stimulating factor 2	0.356	0.966	0.84256	0.31	no reported evidence		2	0	2007.0	2013.0
+C0021368	Inflammation	85480	TSLP	Q969D9		thymic stromal lymphopoietin	0.547	0.69	0.0039143	0.31	no reported evidence		2	0	2007.0	2018.0
+C0021368	Inflammation	7076	TIMP1	P01033	enzyme modulator	TIMP metallopeptidase inhibitor 1	0.418	0.759	0.48258	0.31	no reported evidence		2	0	2004.0	2007.0
+C0021368	Inflammation	4982	TNFRSF11B	O00300		TNF receptor superfamily member 11b	0.467	0.69	0.21052	0.31	no reported evidence		2	0	2005.0	2013.0
+C0021368	Inflammation	5465	PPARA	Q07869	nucleic acid binding; receptor; transcription factor	peroxisome proliferator activated receptor alpha	0.465	0.793	0.037307	0.31	no reported evidence		2	0	2005.0	2012.0
+C0021368	Inflammation	54106	TLR9	Q9NR96		toll like receptor 9	0.453	0.862	1.186e-05	0.31	no reported evidence		2	0	2007.0	2010.0
+C0021368	Inflammation	3934	LCN2	P80188	isomerase; transfer/carrier protein	lipocalin 2	0.469	0.793	1.4431e-09	0.31	no reported evidence		2	0	2005.0	2010.0
+C0021368	Inflammation	7349	UCN	P55089	signaling molecule	urocortin	0.557	0.655	0.45184	0.31	no reported evidence		2	0	1999.0	2003.0
+C0021368	Inflammation	9966	TNFSF15	O95150	signaling molecule	TNF superfamily member 15	0.584	0.621	0.0030333	0.31	no reported evidence		2	0	2004.0	2011.0
+C0021368	Inflammation	4313	MMP2	P08253	hydrolase; protease	matrix metallopeptidase 2	0.373	0.862	0.83952	0.31	no reported evidence		2	0	2006.0	2015.0
+C0021368	Inflammation	114548	NLRP3	Q96P20		NLR family pyrin domain containing 3	0.435	0.862	0.00070387	0.31	no reported evidence		3	0	2002.0	2012.0
+C0021368	Inflammation	177	AGER	Q15109	cell adhesion molecule; receptor	advanced glycosylation end-product specific receptor	0.472	0.724	3.4363e-16	0.31	no reported evidence		2	0	2004.0	2012.0
+C0021368	Inflammation	4057	LTF	P02788	hydrolase; protease; receptor; transfer/carrier protein	lactotransferrin	0.573	0.69	5.5352e-22	0.31	no reported evidence		2	0	2002.0	2005.0
+C0021368	Inflammation	2833	CXCR3	P49682		C-X-C motif chemokine receptor 3	0.481	0.793	0.17201	0.31	no reported evidence		2	0	2003.0	2004.0
+C0021368	Inflammation	623	BDKRB1	P46663	receptor	bradykinin receptor B1	0.642	0.517	0.0043971	0.31	no reported evidence		2	0	2005.0	2010.0
+C0021368	Inflammation	624	BDKRB2	P30411	receptor	bradykinin receptor B2	0.619	0.621	0.13329	0.31	no reported evidence		2	0	2005.0	2010.0
+C0021368	Inflammation	335	APOA1	P02647		apolipoprotein A1	0.463	0.759	0.00054889	0.31	no reported evidence		2	0	2008.0	2011.0
+C0021368	Inflammation	196	AHR	P35869	receptor; transcription factor	aryl hydrocarbon receptor	0.462	0.862	0.99998	0.31	no reported evidence		3	0	2005.0	2016.0
+C0021368	Inflammation	6863	TAC1	P20366		tachykinin precursor 1	0.473	0.793	0.75489	0.31	no reported evidence		4	0	1997.0	2011.0
+C0021368	Inflammation	9536	PTGES	O14684		prostaglandin E synthase	0.562	0.69	0.65991	0.31	no reported evidence		2	0	2003.0	2015.0
+C0021368	Inflammation	3717	JAK2	O60674		Janus kinase 2	0.43	0.69	0.47291	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	7128	TNFAIP3	P21580	hydrolase; nucleic acid binding; protease	TNF alpha induced protein 3	0.538	0.621	0.99979	0.3	no reported evidence		1	0	2014.0	2014.0
+C0021368	Inflammation	11277	TREX1	Q9NSU2		three prime repair exonuclease 1	0.58	0.621	0.42238	0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5020	OXT	P01178	signaling molecule	oxytocin/neurophysin I prepropeptide	0.528	0.621	0.71566	0.3	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	8989	TRPA1	O75762		transient receptor potential cation channel subfamily A member 1	0.639	0.621	9.2204e-33	0.3	no reported evidence		1	0	2010.0	2010.0
+C0021368	Inflammation	3665	IRF7	Q92985	nucleic acid binding; transcription factor	interferon regulatory factor 7	0.6	0.69	2.1702e-14	0.3	no reported evidence		1	0	2010.0	2010.0
+C0021368	Inflammation	4615	MYD88	Q99836		myeloid differentiation primary response 88	0.47	0.828	0.13594	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	7161	TP73	O15350	transcription factor	tumor protein p73	0.472	0.724	0.99736	0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	2588	GALNS	P34059	hydrolase	galactosamine (N-acetyl)-6-sulfatase	0.616	0.655	4.3946e-10	0.3	no reported evidence		1	0	1995.0	1995.0
+C0021368	Inflammation	8942	KYNU	Q16719	hydrolase	kynureninase	0.707	0.448	2.7826e-15	0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3552	IL1A	P01583		interleukin 1 alpha	0.366	0.931	0.00014857	0.3	no reported evidence		2	0	2011.0	2012.0
+C0021368	Inflammation	30009	TBX21	Q9UL17	nucleic acid binding; transcription factor	T-box 21	0.582	0.759	0.99635	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	11221	DUSP10	Q9Y6W6		dual specificity phosphatase 10	0.762	0.31	0.79161	0.3	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1906	EDN1	P05305	signaling molecule	endothelin 1	0.417	0.828	0.45733	0.3	no reported evidence		1	0	2013.0	2013.0
+C0021368	Inflammation	9971	NR1H4	Q96RI1	nucleic acid binding; receptor; transcription factor	nuclear receptor subfamily 1 group H member 4	0.522	0.655	0.0012509	0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	10019	SH2B3	Q9UQQ2		SH2B adaptor protein 3	0.575	0.552	6.6977e-05	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	7538	ZFP36	P26651	nucleic acid binding	ZFP36 ring finger protein	0.559	0.586	0.76823	0.3	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	2625	GATA3	P23771	nucleic acid binding; transcription factor	GATA binding protein 3	0.477	0.793	0.89505	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	9373	PLAA	Q9Y263	enzyme modulator	phospholipase A2 activating protein	0.752	0.241	0.51387	0.3	no reported evidence		1	0	2001.0	2001.0
+C0021368	Inflammation	2056	EPO	P01588		erythropoietin	0.425	0.759	0.012147	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	10747	MASP2	O00187	hydrolase; protease	mannan binding lectin serine peptidase 2	0.642	0.655	3.5872e-14	0.3	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	1978	EIF4EBP1	Q13541	nucleic acid binding	eukaryotic translation initiation factor 4E binding protein 1	0.529	0.793	0.21356	0.3	no reported evidence		1	0	2016.0	2016.0
+C0021368	Inflammation	1958	EGR1	P18146	nucleic acid binding; transcription factor	early growth response 1	0.459	0.793	0.3269	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	4879	NPPB	P16860		natriuretic peptide B	0.567	0.552	9.1339e-06	0.3	no reported evidence		1	0	2010.0	2010.0
+C0021368	Inflammation	2920	CXCL2	P19875	signaling molecule	C-X-C motif chemokine ligand 2	0.555	0.69	4.2169e-07	0.3	no reported evidence		1	0	2013.0	2013.0
+C0021368	Inflammation	9311	ASIC3	Q9UHC3	transporter	acid sensing ion channel subunit 3	0.799	0.207	1.7692e-07	0.3	no reported evidence		1	0	2001.0	2001.0
+C0021368	Inflammation	9948	WDR1	O75083	cytoskeletal protein	WD repeat domain 1	0.713	0.483	0.99977	0.3	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	7249	TSC2	P49815	enzyme modulator	TSC complex subunit 2	0.463	0.69	1.0	0.3	no reported evidence		1	0	2016.0	2016.0
+C0021368	Inflammation	1395	CRHR2	Q13324		corticotropin releasing hormone receptor 2	0.596	0.655	3.7644e-16	0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6351	CCL4	P13236;Q8NHW4	signaling molecule	C-C motif chemokine ligand 4	0.526	0.862	0.20866	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	6348	CCL3	P10147	signaling molecule	C-C motif chemokine ligand 3	0.522	0.828	0.36096	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	407004	MIR22			microRNA 22	0.554	0.621		0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	282617	IFNL3	Q8IZI9		interferon lambda 3	0.557	0.793	2.1455e-08	0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	796	CALCA	P01258;P06881	signaling molecule	calcitonin related polypeptide alpha	0.456	0.828	0.013536	0.3	no reported evidence		1	0	2001.0	2001.0
+C0021368	Inflammation	834	CASP1	P29466	enzyme modulator; hydrolase; protease	caspase 1	0.468	0.828	0.00018521	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	55829	SELENOS	Q9BQE4		selenoprotein S	0.672	0.448		0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6356	CCL11	P51671	signaling molecule	C-C motif chemokine ligand 11	0.586	0.655	0.0098159	0.3	no reported evidence		1	0	2014.0	2014.0
+C0021368	Inflammation	207	AKT1	P31749	calcium-binding protein; kinase; transfer/carrier protein; transferase	AKT serine/threonine kinase 1	0.355	0.862	0.97917	0.3	no reported evidence		2	0	2014.0	2016.0
+C0021368	Inflammation	916	CD3E	P07766		CD3e molecule	0.648	0.448	0.0004171	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	7037	TFRC	P02786	hydrolase; protease	transferrin receptor	0.471	0.759	0.00029785	0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5770	PTPN1	P18031		protein tyrosine phosphatase, non-receptor type 1	0.569	0.621	0.77909	0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	412	STS	P08842	hydrolase	steroid sulfatase	0.487	0.828	0.76889	0.3	no reported evidence		1	0	2014.0	2014.0
+C0021368	Inflammation	540	ATP7B	P35670	hydrolase; transporter	ATPase copper transporting beta	0.547	0.621	5.3747e-30	0.3	no reported evidence		1	0	2013.0	2013.0
+C0021368	Inflammation	6774	STAT3	P40763	nucleic acid binding; transcription factor	signal transducer and activator of transcription 3	0.358	0.862	1.0	0.3	no reported evidence		3	0	2011.0	2014.0
+C0021368	Inflammation	114131	UCN3	Q969E3		urocortin 3	0.659	0.586	0.047751	0.3	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6820	SULT2B1	O00204		sulfotransferase family 2B member 1	0.663	0.31	0.41331	0.3	no reported evidence		1	0	2017.0	2017.0
+C0021368	Inflammation	6097	RORC	P51449		RAR related orphan receptor C	0.609	0.655	0.99977	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	6584	SLC22A5	O76082		solute carrier family 22 member 5	0.663	0.552	1.5303e-15	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	284	ANGPT1	Q15389	signaling molecule	angiopoietin 1	0.495	0.69	0.99071	0.3	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	7018	TF	P02787	hydrolase; protease; receptor; transfer/carrier protein	transferrin	0.548	0.724	4.2941e-08	0.3	no reported evidence		1	0	2010.0	2010.0
+C0021368	Inflammation	54982	CLN6	Q9NWW5		CLN6, transmembrane ER protein	0.663	0.207	0.00037943	0.3	no reported evidence		1	0	2013.0	2013.0
+C0021368	Inflammation	5244	ABCB4	P21439	hydrolase; protease	ATP binding cassette subfamily B member 4	0.555	0.517	4.5486e-07	0.3	no reported evidence		1	0	2012.0	2012.0
+C0021368	Inflammation	1280	COL2A1	P02458		collagen type II alpha 1 chain	0.474	0.724	1.0	0.3	no reported evidence		2	0	2014.0	2017.0
+C0021368	Inflammation	1947	EFNB1	P98172	signaling molecule	ephrin B1	0.579	0.69	0.90026	0.3	no reported evidence		1	0	2014.0	2014.0
+C0021368	Inflammation	51083	GAL	P22466		galanin and GMAP prepropeptide	0.529	0.759	4.7907e-06	0.3	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	40	ASIC2	Q16515	transporter	acid sensing ion channel subunit 2	0.743	0.276	0.99873	0.3	no reported evidence		1	0	2001.0	2001.0
+C0021368	Inflammation	41	ASIC1	P78348	transporter	acid sensing ion channel subunit 1	0.681	0.448	0.88377	0.3	no reported evidence		1	0	2001.0	2001.0
+C0021368	Inflammation	407040	MIR34A			microRNA 34a	0.47	0.759		0.3	no reported evidence		1	0	2014.0	2014.0
+C0021368	Inflammation	406999	MIR217			microRNA 217	0.63	0.414		0.3	no reported evidence		1	0	2016.0	2016.0
+C0021368	Inflammation	1141	CHRNB2	P17787	receptor; transporter	cholinergic receptor nicotinic beta 2 subunit	0.619	0.207	0.00077392	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	1137	CHRNA4	P43681	receptor; transporter	cholinergic receptor nicotinic alpha 4 subunit	0.521	0.586	0.00011281	0.3	no reported evidence		1	0	2011.0	2011.0
+C0021368	Inflammation	5734	PTGER4	P35408	receptor	prostaglandin E receptor 4	0.58	0.517	0.95608	0.3	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	7039	TGFA	P01135	signaling molecule	transforming growth factor alpha	0.447	0.724	0.74028	0.3	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	183	AGT	P01019	enzyme modulator	angiotensinogen	0.406	0.862	3.8655e-08	0.3	no reported evidence		3	0	2006.0	2016.0
+C0021368	Inflammation	885	CCK	P06307		cholecystokinin	0.513	0.655	3.9318e-05	0.3	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	12	SERPINA3	P01011	enzyme modulator	serpin family A member 3	0.572	0.69	8.0723e-14	0.2	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	8638	OASL	Q15646	defense/immunity protein; nucleic acid binding; transferase	2'-5'-oligoadenylate synthetase like	0.799	0.276	1.9362e-11	0.1	no reported evidence		0	1		
+C0021368	Inflammation	6927	HNF1A	P20823	nucleic acid binding; transcription factor	HNF1 homeobox A	0.515	0.621	0.95679	0.1	no reported evidence		0	4		
+C0021368	Inflammation	6364	CCL20	P78556	signaling molecule	C-C motif chemokine ligand 20	0.535	0.655	0.00027348	0.06	no reported evidence		6	0	2002.0	2008.0
+C0021368	Inflammation	4790	NFKB1	P19838		nuclear factor kappa B subunit 1	0.365	0.931	1.0	0.04	no reported evidence		4	0	2002.0	2006.0
+C0021368	Inflammation	5624	PROC	P04070	hydrolase; protease	protein C, inactivator of coagulation factors Va and VIIIa	0.645	0.586	9.897e-05	0.04	no reported evidence		4	0	2005.0	2008.0
+C0021368	Inflammation	6376	CX3CL1	P78423	signaling molecule	C-X3-C motif chemokine ligand 1	0.533	0.759	0.88477	0.04	no reported evidence		4	0	2002.0	2007.0
+C0021368	Inflammation	5657	PRTN3	P24158	hydrolase; protease	proteinase 3	0.58	0.586	3.5519e-05	0.04	no reported evidence		4	0	2002.0	2004.0
+C0021368	Inflammation	3606	IL18	Q14116		interleukin 18	0.404	0.862	0.029184	0.04	no reported evidence		4	0	2004.0	2006.0
+C0021368	Inflammation	51561	IL23A	Q9NPF7	signaling molecule	interleukin 23 subunit alpha	0.479	0.724	0.36909	0.04	no reported evidence		4	0	2005.0	2008.0
+C0021368	Inflammation	7057	THBS1	P07996		thrombospondin 1	0.448	0.759	0.99996	0.04	no reported evidence		4	0	2003.0	2008.0
+C0021368	Inflammation	1991	ELANE	P08246	hydrolase; protease	elastase, neutrophil expressed	0.506	0.759	0.0013719	0.04	no reported evidence		4	0	2002.0	2007.0
+C0021368	Inflammation	6696	SPP1	P10451		secreted phosphoprotein 1	0.391	0.862	1.0484e-06	0.03	no reported evidence		3	0	2007.0	2008.0
+C0021368	Inflammation	3627	CXCL10	P02778	signaling molecule	C-X-C motif chemokine ligand 10	0.437	0.828	0.39009	0.03	no reported evidence		3	0	2001.0	2007.0
+C0021368	Inflammation	3308	HSPA4	P34932		heat shock protein family A (Hsp70) member 4	0.441	0.793	0.9999	0.03	no reported evidence		3	0	2007.0	2008.0
+C0021368	Inflammation	133	ADM	P35318	signaling molecule	adrenomedullin	0.471	0.724	0.034615	0.03	no reported evidence		3	0	2004.0	2007.0
+C0021368	Inflammation	90865	IL33	O95760		interleukin 33	0.503	0.793	7.7528e-10	0.03	no reported evidence		3	0	2007.0	2009.0
+C0021368	Inflammation	5054	SERPINE1	P05121	enzyme modulator	serpin family E member 1	0.384	0.793	0.047491	0.03	no reported evidence		3	0	2005.0	2008.0
+C0021368	Inflammation	958	CD40	P25942		CD40 molecule	0.433	0.862	0.85939	0.03	no reported evidence		3	0	2004.0	2008.0
+C0021368	Inflammation	4846	NOS3	P29474		nitric oxide synthase 3	0.401	0.862	8.8921e-07	0.03	no reported evidence		3	0	2002.0	2009.0
+C0021368	Inflammation	10392	NOD1	Q9Y239	hydrolase; nucleic acid binding; protease; transcription factor	nucleotide binding oligomerization domain containing 1	0.598	0.655	1.6741e-17	0.03	no reported evidence		3	0	2003.0	2008.0
+C0021368	Inflammation	56729	RETN	Q9HD89		resistin	0.542	0.759	0.039671	0.03	no reported evidence		3	0	2008.0	2009.0
+C0021368	Inflammation	727	C5	P01031	defense/immunity protein; enzyme modulator; signaling molecule	complement C5	0.611	0.655	6.1012e-24	0.03	no reported evidence		3	0	2002.0	2008.0
+C0021368	Inflammation	5970	RELA	Q04206	nucleic acid binding; transcription factor	RELA proto-oncogene, NF-kB subunit	0.456	0.828	0.99942	0.03	no reported evidence		3	0	2002.0	2007.0
+C0021368	Inflammation	64127	NOD2	Q9HC29	hydrolase; nucleic acid binding; protease; transcription factor	nucleotide binding oligomerization domain containing 2	0.458	0.862	1.6369e-30	0.03	no reported evidence		3	0	2006.0	2008.0
+C0021368	Inflammation	5328	PLAU	P00749	hydrolase; protease	plasminogen activator, urokinase	0.434	0.69	2.1424e-06	0.03	no reported evidence		3	0	2003.0	2008.0
+C0021368	Inflammation	1235	CCR6	P51684		C-C motif chemokine receptor 6	0.522	0.724	0.0062043	0.03	no reported evidence		3	0	2002.0	2007.0
+C0021368	Inflammation	4314	MMP3	P08254	hydrolase; protease	matrix metallopeptidase 3	0.439	0.793	4.9293e-15	0.03	no reported evidence		3	0	2006.0	2009.0
+C0021368	Inflammation	1269	CNR2	P34972	receptor	cannabinoid receptor 2	0.554	0.621	6.9778e-06	0.03	no reported evidence		3	0	2007.0	2008.0
+C0021368	Inflammation	3827	KNG1	P01042	enzyme modulator	kininogen 1	0.53	0.862	3.6137e-10	0.02	no reported evidence		2	0	2007.0	2008.0
+C0021368	Inflammation	6280	S100A9	P06702	calcium-binding protein; signaling molecule	S100 calcium binding protein A9	0.488	0.793	0.46546	0.02	no reported evidence		2	0	2003.0	2006.0
+C0021368	Inflammation	7177	TPSAB1	P20231;Q15661	calcium-binding protein; enzyme modulator; hydrolase; protease; receptor; signaling molecule	tryptase alpha/beta 1	0.762	0.345	1.2294e-13	0.02	no reported evidence		2	0	2003.0	2005.0
+C0021368	Inflammation	6403	SELP	P16109		selectin P	0.519	0.724	4.2701e-32	0.02	no reported evidence		2	0	2006.0	2006.0
+C0021368	Inflammation	5228	PGF	P49763	signaling molecule	placental growth factor	0.52	0.621	0.135	0.02	no reported evidence		2	0	2003.0	2008.0
+C0021368	Inflammation	7130	TNFAIP6	P98066		TNF alpha induced protein 6	0.639	0.448	1.0551e-06	0.02	no reported evidence		2	0	2003.0	2005.0
+C0021368	Inflammation	7132	TNFRSF1A	P19438		TNF receptor superfamily member 1A	0.443	0.862	0.99585	0.02	no reported evidence		2	0	2007.0	2008.0
+C0021368	Inflammation	7157	TP53	P04637	transcription factor	tumor protein p53	0.251	0.897	0.16862	0.02	no reported evidence		2	0	2005.0	2008.0
+C0021368	Inflammation	4780	NFE2L2	Q16236	cytoskeletal protein; hydrolase; nucleic acid binding; transcription factor	nuclear factor, erythroid 2 like 2	0.42	0.862	0.0035489	0.02	no reported evidence		2	0	2008.0	2008.0
+C0021368	Inflammation	5443	POMC	P01189		proopiomelanocortin	0.382	0.862	9.3851e-05	0.02	no reported evidence		2	0	2003.0	2004.0
+C0021368	Inflammation	6404	SELPLG	Q14242		selectin P ligand	0.621	0.517	0.18618	0.02	no reported evidence		2	0	2004.0	2004.0
+C0021368	Inflammation	7424	VEGFC	P49767	signaling molecule	vascular endothelial growth factor C	0.501	0.69	0.51138	0.02	no reported evidence		2	0	2004.0	2007.0
+C0021368	Inflammation	4306	NR3C2	P08235	nucleic acid binding; receptor; transcription factor	nuclear receptor subfamily 3 group C member 2	0.52	0.69	0.80843	0.02	no reported evidence		2	0	2005.0	2006.0
+C0021368	Inflammation	6288	SAA1	P0DJI8	defense/immunity protein; transfer/carrier protein; transporter	serum amyloid A1	0.602	0.655	0.014396	0.02	no reported evidence		2	0	2005.0	2007.0
+C0021368	Inflammation	6352	CCL5	P13501	signaling molecule	C-C motif chemokine ligand 5	0.429	0.793	0.0016641	0.02	no reported evidence		2	0	2003.0	2005.0
+C0021368	Inflammation	6285	S100B	P04271	calcium-binding protein; signaling molecule	S100 calcium binding protein B	0.443	0.862	0.046548	0.02	no reported evidence		2	0	2007.0	2007.0
+C0021368	Inflammation	4502	MT2A	P02795		metallothionein 2A	0.588	0.621	1.4153e-05	0.02	no reported evidence		2	0	2004.0	2005.0
+C0021368	Inflammation	4153	MBL2	P11226	receptor	mannose binding lectin 2	0.415	0.828	0.014648	0.02	no reported evidence		2	0	2007.0	2008.0
+C0021368	Inflammation	7450	VWF	P04275	enzyme modulator	von Willebrand factor	0.462	0.724	7.8464e-24	0.02	no reported evidence		2	0	2002.0	2005.0
+C0021368	Inflammation	6564	SLC15A1	P46059	transporter	solute carrier family 15 member 1	0.743	0.414	1.4201e-12	0.02	no reported evidence		2	0	2004.0	2006.0
+C0021368	Inflammation	4908	NTF3	P20783	signaling molecule	neurotrophin 3	0.525	0.621	0.88635	0.02	no reported evidence		2	0	2003.0	2006.0
+C0021368	Inflammation	6366	CCL21	O00585	signaling molecule	C-C motif chemokine ligand 21	0.55	0.69	0.034342	0.02	no reported evidence		2	0	2007.0	2007.0
+C0021368	Inflammation	8995	TNFSF18	Q9UNG2		TNF superfamily member 18	0.815	0.207	0.00021916	0.02	no reported evidence		2	0	2006.0	2006.0
+C0021368	Inflammation	57817	HAMP	P81172		hepcidin antimicrobial peptide	0.499	0.759	0.0082683	0.02	no reported evidence		2	0	2003.0	2004.0
+C0021368	Inflammation	3082	HGF	P14210	hydrolase; protease	hepatocyte growth factor	0.394	0.793	0.99958	0.02	no reported evidence		2	0	2002.0	2006.0
+C0021368	Inflammation	960	CD44	P16070		CD44 molecule (Indian blood group)	0.389	0.862	2.0978e-07	0.02	no reported evidence		2	0	2008.0	2008.0
+C0021368	Inflammation	2919	CXCL1	P09341	signaling molecule	C-X-C motif chemokine ligand 1	0.503	0.793	0.13227	0.02	no reported evidence		2	0	2003.0	2008.0
+C0021368	Inflammation	8740	TNFSF14	O43557	signaling molecule	TNF superfamily member 14	0.58	0.586	0.046389	0.02	no reported evidence		2	0	2002.0	2006.0
+C0021368	Inflammation	959	CD40LG	P29965	signaling molecule	CD40 ligand	0.447	0.828	0.72669	0.02	no reported evidence		2	0	2006.0	2007.0
+C0021368	Inflammation	634	CEACAM1	P13688		carcinoembryonic antigen related cell adhesion molecule 1	0.59	0.552	0.00056749	0.02	no reported evidence		2	0	2006.0	2007.0
+C0021368	Inflammation	652	BMP4	P12644	signaling molecule	bone morphogenetic protein 4	0.477	0.724	0.95584	0.02	no reported evidence		2	0	2004.0	2008.0
+C0021368	Inflammation	1673	DEFB4A	O15263	defense/immunity protein	defensin beta 4A	0.551	0.724	0.0012421	0.02	no reported evidence		2	0	2003.0	2005.0
+C0021368	Inflammation	2246	FGF1	P05230	signaling molecule	fibroblast growth factor 1	0.572	0.69	0.46152	0.02	no reported evidence		2	0	2002.0	2005.0
+C0021368	Inflammation	10333	TLR6	Q9Y2C9		toll like receptor 6	0.611	0.621	2.4029e-05	0.02	no reported evidence		2	0	2008.0	2008.0
+C0021368	Inflammation	708	C1QBP	Q07021		complement C1q binding protein	0.636	0.483	8.8623e-08	0.02	no reported evidence		2	0	2003.0	2007.0
+C0021368	Inflammation	64806	IL25	Q9H293		interleukin 25	0.636	0.69	0.00076439	0.02	no reported evidence		2	0	2006.0	2008.0
+C0021368	Inflammation	51738	GHRL	Q9UBU3		ghrelin and obestatin prepropeptide	0.511	0.655	1.2062e-11	0.02	no reported evidence		2	0	2006.0	2007.0
+C0021368	Inflammation	10673	TNFSF13B	Q9Y275		TNF superfamily member 13b	0.526	0.724	0.9831	0.02	no reported evidence		2	0	2007.0	2007.0
+C0021368	Inflammation	91966	CXorf40A	Q8TE69		chromosome X open reading frame 40A			0.59608	0.02	no reported evidence		2	0	2004.0	2005.0
+C0021368	Inflammation	3600	IL15	P40933		interleukin 15	0.467	0.724	0.92752	0.02	no reported evidence		2	0	2002.0	2003.0
+C0021368	Inflammation	1080	CFTR	P13569	transporter	cystic fibrosis transmembrane conductance regulator	0.453	0.793	1.1203e-57	0.02	no reported evidence		2	0	2005.0	2006.0
+C0021368	Inflammation	50943	FOXP3	Q9BZS1		forkhead box P3	0.408	0.759	0.9936	0.02	no reported evidence		2	0	2006.0	2008.0
+C0021368	Inflammation	8743	TNFSF10	P50591	signaling molecule	TNF superfamily member 10	0.44	0.828	0.12914	0.02	no reported evidence		2	0	2003.0	2003.0
+C0021368	Inflammation	301	ANXA1	P04083		annexin A1	0.498	0.828	1.4519e-07	0.02	no reported evidence		2	0	2006.0	2007.0
+C0021368	Inflammation	351	APP	P05067	enzyme modulator	amyloid beta precursor protein	0.43	0.862	0.062254	0.02	no reported evidence		2	0	2005.0	2008.0
+C0021368	Inflammation	1410	CRYAB	P02511		crystallin alpha B	0.546	0.621	0.023288	0.02	no reported evidence		2	0	2007.0	2008.0
+C0021368	Inflammation	1432	MAPK14	Q16539	kinase; transferase	mitogen-activated protein kinase 14	0.449	0.862	0.77511	0.02	no reported evidence		2	0	2005.0	2007.0
+C0021368	Inflammation	1471	CST3	P01034		cystatin C	0.5	0.724	0.0038631	0.02	no reported evidence		2	0	2007.0	2007.0
+C0021368	Inflammation	7079	TIMP4	Q99727	enzyme modulator	TIMP metallopeptidase inhibitor 4	0.607	0.621	0.00032907	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	51305	KCNK9	Q9NPC2		potassium two pore domain channel subfamily K member 9	0.69	0.379	0.95591	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	51330	TNFRSF12A	Q9NP84		TNF receptor superfamily member 12A	0.547	0.586	0.087478	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	57758	SCUBE2	Q9NQ36	extracellular matrix protein	signal peptide, CUB domain and EGF like domain containing 2	0.857	0.138	4.7625e-21	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	7052	TGM2	P21980	transferase	transglutaminase 2	0.499	0.69	6.9566e-18	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	7305	TYROBP	O43914		TYRO protein tyrosine kinase binding protein	0.624	0.621	0.51728	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	55937	APOM	O95445		apolipoprotein M	0.648	0.483	0.00099371	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	54567	DLL4	Q9NR61		delta like canonical Notch ligand 4	0.535	0.69	0.99997	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	51816	ADA2	Q9NZK5	hydrolase; signaling molecule	adenosine deaminase 2	0.633	0.655		0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	7056	THBD	P07204		thrombomodulin	0.505	0.759	0.22912	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	80854	SETD7	Q8WTS6		SET domain containing lysine methyltransferase 7	0.707	0.31	0.017712	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	54210	TREM1	Q9NP99		triggering receptor expressed on myeloid cells 1	0.562	0.621	0.0072664	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	58191	CXCL16	Q9H2A7	signaling molecule	C-X-C motif chemokine ligand 16	0.58	0.448	3.4573e-05	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	116519	APOA5	Q6Q788		apolipoprotein A5	0.609	0.483	9.0462e-10	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	131450	CD200R1	Q8TD46		CD200 receptor 1	0.707	0.414	4.9104e-09	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	160364	CLEC12A	Q5QGZ9		C-type lectin domain family 12 member A	0.743	0.241	2.6804e-07	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	246778	IL27	Q8NEV9		interleukin 27	0.532	0.724	0.80066	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	260434	PYDC1	Q8WXC3		pyrin domain containing 1	0.886	0.172		0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	283748	PLA2G4D	Q86XP0	hydrolase	phospholipase A2 group IVD	0.886	0.138	5.351e-14	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	6441	SFTPD	P35247	defense/immunity protein; surfactant	surfactant protein D	0.569	0.69	8.488e-05	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	338322	NLRP10	Q86W26		NLR family pyrin domain containing 10	0.886	0.241	7.2588e-09	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	440068	CARD17	Q5XLA6		caspase recruitment domain family member 17	0.928	0.069	5.2625e-05	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	115650	TNFRSF13C	Q96RJ3		TNF receptor superfamily member 13C	0.575	0.724	0.27542	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	7532	YWHAG	P61981	chaperone	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma	0.727	0.31	0.96918	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	64078	SLC28A3	Q9HAS3	transporter	solute carrier family 28 member 3	0.752	0.379	2.2187e-22	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	65997	RASL11B	Q9BPW5		RAS like family 11 member B	1.0	0.034	0.0053898	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	79602	ADIPOR2	Q86V24	receptor	adiponectin receptor 2	0.594	0.586	0.37689	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	79865	TREML2	Q5T2D2		triggering receptor expressed on myeloid cells like 2	0.886	0.103	1.2947e-08	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6781	STC1	P52823	signaling molecule	stanniocalcin 1	0.575	0.621	0.1889	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	80274	SCUBE1	Q8IWY4	extracellular matrix protein	signal peptide, CUB domain and EGF like domain containing 1	1.0	0.069	0.96891	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	6699	SPRR1B	P22528		small proline rich protein 1B	0.928	0.207	0.00073744	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	90070	LACRT	Q9GZZ8		lacritin	1.0	0.034	0.0001281	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	339221	ENPP7	Q6UWV6	hydrolase; phosphatase	ectonucleotide pyrophosphatase/phosphodiesterase 7	0.857	0.103	1.1325e-14	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	8651	SOCS1	O15524	enzyme modulator	suppressor of cytokine signaling 1	0.483	0.759	0.58244	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	9021	SOCS3	O14543	enzyme modulator	suppressor of cytokine signaling 3	0.487	0.724	0.74823	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	9153	SLC28A2	O43868	transporter	solute carrier family 28 member 2	0.834	0.241	2.5726e-27	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	9235	IL32	P24001		interleukin 32	0.537	0.621	2.6064e-09	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	7432	VIP	P01282	signaling molecule	vasoactive intestinal peptide	0.526	0.759	0.00039321	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	9308	CD83	Q01151		CD83 molecule	0.584	0.621	0.025447	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	7423	VEGFB	P49765	signaling molecule	vascular endothelial growth factor B	0.642	0.379	1.2549e-09	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	9420	CYP7B1	O75881	oxidoreductase	cytochrome P450 family 7 subfamily B member 1	0.604	0.517	3.1924e-06	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	9423	NTN1	O95631	enzyme modulator; extracellular matrix protein; receptor	netrin 1	0.582	0.69	0.9994	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	7448	VTN	P04004		vitronectin	0.534	0.724	1.582e-10	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	8862	APLN	Q9ULZ1		apelin	0.762	0.241	0.46318	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	7533	YWHAH	Q04917	chaperone	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta	0.743	0.207	0.7893	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	8398	PLA2G6	O60733	enzyme modulator	phospholipase A2 group VI	0.494	0.724	2.7949e-10	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	9332	CD163	Q86VB7	hydrolase; oxidoreductase; protease; receptor	CD163 molecule	0.52	0.793	0.0011171	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	8174	MADCAM1	Q13477		mucosal vascular addressin cell adhesion molecule 1	0.696	0.345	0.49412	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	7980	TFPI2	P48307	enzyme modulator	tissue factor pathway inhibitor 2	0.545	0.621	0.00078009	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	8741	TNFSF13	O75888		TNF superfamily member 13	0.561	0.655	0.78889	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	8742	TNFSF12	O43508		TNF superfamily member 12	0.598	0.655	0.75747	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	7818	DAP3	P51398	nucleic acid binding	death associated protein 3	0.743	0.345	1.1922e-09	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	8784	TNFRSF18	Q9Y5U5		TNF receptor superfamily member 18	0.701	0.379	1.6734e-06	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	9547	CXCL14	O95715		C-X-C motif chemokine ligand 14	0.611	0.448	0.041173	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	7412	VCAM1	P19320		vascular cell adhesion molecule 1	0.466	0.793	0.74466	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	10135	NAMPT	P43490	signaling molecule	nicotinamide phosphoribosyltransferase	0.564	0.69	0.98206	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	27179	IL36A	Q9UHA7		interleukin 36 alpha	0.928	0.207	0.027791	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	29943	PADI1	Q9ULC6		peptidyl arginine deiminase 1	0.762	0.414	4.7048e-15	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	50604	IL20	Q9NYY1		interleukin 20	0.575	0.69	1.7231e-06	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	50616	IL22	Q9GZX6		interleukin 22	0.464	0.793	0.00019005	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	7114	TMSB4X	P62328		thymosin beta 4 X-linked	0.598	0.552	0.42267	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	50848	F11R	Q9Y624		F11 receptor	0.645	0.483	1.7021e-05	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	7098	TLR3	O15455	extracellular matrix protein; receptor	toll like receptor 3	0.475	0.862	1.516e-07	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	51094	ADIPOR1	Q96A54	receptor	adiponectin receptor 1	0.573	0.586	0.6524	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	26298	EHF	Q9NZC4	nucleic acid binding; signaling molecule; transcription factor	ETS homologous factor	0.735	0.31	0.76383	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	25824	PRDX5	P30044		peroxiredoxin 5	0.577	0.655	0.00013042	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	23495	TNFRSF13B	O14836		TNF receptor superfamily member 13B	0.572	0.724	1.8981e-15	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	10344	CCL26	Q9Y258	signaling molecule	C-C motif chemokine ligand 26	0.681	0.483	0.0098534	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	10365	KLF2	Q9Y5W3	nucleic acid binding; transcription factor	Kruppel like factor 2	0.602	0.586	0.56497	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	10628	TXNIP	Q9H3M7		thioredoxin interacting protein	0.552	0.621	0.11983	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	10859	LILRB1	Q8NHL6	defense/immunity protein; enzyme modulator; receptor; signaling molecule	leukocyte immunoglobulin like receptor B1	0.559	0.655	3.5095e-14	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	11019	LIAS	O43766		lipoic acid synthetase	0.707	0.414	2.4006e-05	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	11251	PTGDR2	Q9Y5Y4	receptor	prostaglandin D2 receptor 2	0.681	0.586	0.0030301	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	23054	NCOA6	Q14686	nucleic acid binding	nuclear receptor coactivator 6	0.648	0.621	0.99998	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	23411	SIRT1	Q96EB6	hydrolase; nucleic acid binding	sirtuin 1	0.432	0.828	0.081958	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	51284	TLR7	Q9NYK1		toll like receptor 7	0.542	0.759	0.97165	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	2323	FLT3LG	P49771		fms related tyrosine kinase 3 ligand	0.596	0.517	0.94214	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	1557	CYP2C19	P33261		cytochrome P450 family 2 subfamily C member 19	0.501	0.793	4.1125e-20	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	1511	CTSG	P08311	hydrolase; protease	cathepsin G	0.656	0.517	7.8185e-06	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	1508	CTSB	P07858	enzyme modulator; hydrolase; protease	cathepsin B	0.49	0.828	3.3349e-11	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	1499	CTNNB1	P35222		catenin beta 1	0.417	0.759	0.99999	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	1435	CSF1	P09603		colony stimulating factor 1	0.51	0.655	0.99155	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	1392	CRH	P06850		corticotropin releasing hormone	0.456	0.759	0.72442	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	1361	CPB2	Q96IY4	hydrolase; protease	carboxypeptidase B2	0.594	0.586	2.9644e-17	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	1270	CNTF	P26441		ciliary neurotrophic factor	0.621	0.414	2.2265e-05	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	1268	CNR1	P21554	receptor	cannabinoid receptor 1	0.47	0.69	0.51751	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	1238	ACKR2	O00590		atypical chemokine receptor 2	0.762	0.276	0.0014411	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	1237	CCR8	P51685		C-C motif chemokine receptor 8	0.659	0.414	0.0083983	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	1236	CCR7	P32248		C-C motif chemokine receptor 7	0.477	0.759	0.052849	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	1191	CLU	P10909		clusterin	0.456	0.793	5.687e-05	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1116	CHI3L1	P36222		chitinase 3 like 1	0.502	0.793	8.5062e-06	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1026	CDKN1A	P38936		cyclin dependent kinase inhibitor 1A	0.415	0.724	0.0020695	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	999	CDH1	P12830		cadherin 1	0.432	0.759	0.11369	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	1588	CYP19A1	P11511	oxidoreductase	cytochrome P450 family 19 subfamily A member 1	0.482	0.69	8.6217e-06	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	1652	DDT	P30046	isomerase; signaling molecule	D-dopachrome tautomerase	0.672	0.345	0.33652	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	1667	DEFA1	P59665		defensin alpha 1	0.672	0.552		0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	2321	FLT1	P17948		fms related tyrosine kinase 1	0.453	0.793	0.99992	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	2288	FKBP4	Q02790	calcium-binding protein; chaperone; isomerase	FK506 binding protein 4	0.59	0.621	0.34942	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2252	FGF7	P21781	signaling molecule	fibroblast growth factor 7	0.533	0.621	0.78285	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	2214	FCGR3A	P08637	cell adhesion molecule	Fc fragment of IgG receptor IIIa	0.466	0.793	2.2592e-06	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	2212	FCGR2A	P12318	cell adhesion molecule	Fc fragment of IgG receptor IIa	0.511	0.724	8.2129e-05	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	2209	FCGR1A	P12314	cell adhesion molecule	Fc fragment of IgG receptor Ia	0.611	0.586	0.0035595	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2204	FCAR	P24071	defense/immunity protein; enzyme modulator; receptor; signaling molecule	Fc fragment of IgA receptor	0.69	0.448	5.6586e-08	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	2160	F11	P03951	hydrolase; protease	coagulation factor XI	0.656	0.414	5.0894e-26	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2155	F7	P08709	hydrolase; protease	coagulation factor VII	0.547	0.69	1.5257e-05	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	2147	F2	P00734	hydrolase; protease	coagulation factor II, thrombin	0.466	0.793	0.0011245	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	1999	ELF3	P78545	nucleic acid binding; signaling molecule; transcription factor	E74 like ETS transcription factor 3	0.611	0.586	0.97247	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	1950	EGF	P01133		epidermal growth factor	0.386	0.897	1.0171e-16	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	9	NAT1	P18440	transferase	N-acetyltransferase 1	0.564	0.724	1.8078e-14	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1829	DSG2	Q14126	cell adhesion molecule; cell junction protein	desmoglein 2	0.645	0.448	3.769e-10	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1755	DMBT1	Q9UGM3	hydrolase; oxidoreductase; protease; receptor	deleted in malignant brain tumors 1	0.573	0.483	3.5303e-61	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	1668	DEFA3	P59666		defensin alpha 3	0.72	0.448	0.091898	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	968	CD68	P34810	membrane traffic protein	CD68 molecule	0.48	0.793	1.2196e-06	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	962	CD48	P09326	cell adhesion molecule; defense/immunity protein; kinase; receptor; signaling molecule; transferase	CD48 molecule	0.667	0.552	0.00012752	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	961	CD47	Q08722		CD47 molecule	0.538	0.655	0.91235	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	355	FAS	P25445		Fas cell surface death receptor	0.393	0.862	0.83991	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	347	APOD	P05090		apolipoprotein D	0.598	0.483	0.00055804	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	343	AQP8	O94778	transporter	aquaporin 8	0.799	0.276	0.00040466	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	337	APOA4	P06727		apolipoprotein A4	0.596	0.517	4.8944e-06	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	332	BIRC5	O15392	enzyme modulator	baculoviral IAP repeat containing 5	0.479	0.655	0.056738	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	325	APCS	P02743		amyloid P component, serum	0.565	0.655	0.030048	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	285	ANGPT2	O15123	signaling molecule	angiopoietin 2	0.479	0.724	0.85572	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	283	ANG	P03950		angiogenin	0.547	0.69	0.29469	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	274	BIN1	O00499		bridging integrator 1	0.573	0.621	0.76923	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	249	ALPL	P05186	hydrolase; phosphatase	alkaline phosphatase, liver/bone/kidney	0.564	0.621	0.00035455	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	197	AHSG	P02765	enzyme modulator	alpha 2-HS glycoprotein	0.577	0.69	2.7212e-10	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	185	AGTR1	P30556	receptor	angiotensin II receptor type 1	0.454	0.759	0.0005718	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	155	ADRB3	P13945	receptor	adrenoceptor beta 3	0.558	0.552	2.7182e-07	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	116	ADCYAP1	P18509	signaling molecule	adenylate cyclase activating polypeptide 1	0.598	0.586	0.52237	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	103	ADAR	P55265	defense/immunity protein; enzyme modulator; hydrolase; nucleic acid binding	adenosine deaminase, RNA specific	0.586	0.655	0.0375	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	100	ADA	P00813	hydrolase	adenosine deaminase	0.494	0.793	1.4594e-10	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	356	FASLG	P48023	signaling molecule	Fas ligand	0.462	0.862	0.18367	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	360	AQP3	Q92482	transporter	aquaporin 3 (Gill blood group)	0.577	0.621	0.079529	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	361	AQP4	P55087	transporter	aquaporin 4	0.525	0.793	0.002775	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	952	CD38	P28907	hydrolase; lyase	CD38 molecule	0.481	0.828	2.9127e-06	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	940	CD28	P10747		CD28 molecule	0.488	0.793	0.37386	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	847	CAT	P04040	oxidoreductase	catalase	0.397	0.828	1.8782e-10	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	820	CAMP	P49913		cathelicidin antimicrobial peptide	0.537	0.69	0.025987	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	775	CACNA1C	Q13936		calcium voltage-gated channel subunit alpha1 C	0.575	0.517	1.0	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	728	C5AR1	P21730	receptor	complement C5a receptor 1	0.59	0.655	0.38963	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	721	C4B	P0C0L4;P0C0L5	defense/immunity protein; enzyme modulator; signaling molecule	complement C4B (Chido blood group)	0.627	0.724	0.75419	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	720	C4A	P0C0L4;P0C0L5	defense/immunity protein; enzyme modulator; signaling molecule	complement C4A (Rodgers blood group)	0.604	0.69	7.6677e-09	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	719	C3AR1	Q16581	receptor	complement C3a receptor 1	0.696	0.448	3.3378e-09	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	718	C3	P01024	defense/immunity protein; enzyme modulator; signaling molecule	complement C3	0.484	0.828	0.93842	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	710	SERPING1	P05155	enzyme modulator	serpin family G member 1	0.607	0.655	0.99318	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	683	BST1	Q10588	hydrolase; lyase	bone marrow stromal cell antigen 1	0.785	0.345	3.6969e-10	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	682	BSG	P35613	transmembrane receptor regulatory/adaptor protein	basigin (Ok blood group)	0.5	0.759	0.00013473	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	671	BPI	P17213		bactericidal permeability increasing protein	0.639	0.552	1.9491e-14	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	608	TNFRSF17	Q02223	receptor	TNF receptor superfamily member 17	0.685	0.414	1.5543e-06	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	364	AQP7	O14520	transporter	aquaporin 7	0.762	0.241	3.196e-14	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	54	ACP5	P13686		acid phosphatase 5, tartrate resistant	0.577	0.69	0.07045	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2335	FN1	P02751	signaling molecule	fibronectin 1	0.399	0.828	0.0012155	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	6401	SELE	P16581		selectin E	0.479	0.793	7.0237e-10	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	5354	PLP1	P60201	structural protein	proteolipid protein 1	0.577	0.517	0.92708	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5331	PLCB3	Q01970	calcium-binding protein; enzyme modulator; hydrolase; signaling molecule	phospholipase C beta 3	0.752	0.31	0.80413	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	5327	PLAT	P00750	hydrolase; protease	plasminogen activator, tissue type	0.459	0.828	3.4642e-05	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5281	PIGF	Q07326	transferase	phosphatidylinositol glycan anchor biosynthesis class F	0.834	0.276	0.00072736	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5265	SERPINA1	P01009	enzyme modulator	serpin family A member 1	0.453	0.793	4.2148e-08	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	5245	PHB	P35232		prohibitin	0.572	0.621	0.7074	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	5243	ABCB1	P08183	hydrolase; protease	ATP binding cassette subfamily B member 1	0.371	0.828	1.3094e-05	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5241	PGR	P06401	nucleic acid binding; receptor; transcription factor	progesterone receptor	0.467	0.69	0.072296	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	5196	PF4	P02776	signaling molecule	platelet factor 4	0.607	0.517	0.038841	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5176	SERPINF1	P36955	enzyme modulator	serpin family F member 1	0.507	0.724	6.6926e-08	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5175	PECAM1	P16284	cell adhesion molecule	platelet and endothelial cell adhesion molecule 1	0.492	0.69		0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	5159	PDGFRB	P09619		platelet derived growth factor receptor beta	0.457	0.655	0.74901	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	5155	PDGFB	P01127	signaling molecule	platelet derived growth factor subunit B	0.514	0.69	0.77485	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	5154	PDGFA	P04085	signaling molecule	platelet derived growth factor subunit A	0.542	0.621	0.80731	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	4909	NTF4	P34130	signaling molecule	neurotrophin 4	0.69	0.483	0.012352	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	4880	NPPC	P23582	signaling molecule	natriuretic peptide C	0.663	0.448	0.062561	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5444	PON1	P27169		paraoxonase 1	0.443	0.828	8.9806e-11	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	5562	PRKAA1	Q13131	kinase; transferase	protein kinase AMP-activated catalytic subunit alpha 1	0.54	0.621	0.10998	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	5580	PRKCD	Q05655	calcium-binding protein; kinase; transfer/carrier protein; transferase	protein kinase C delta	0.524	0.586	0.99994	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	6387	CXCL12	P48061		C-X-C motif chemokine ligand 12	0.421	0.724	0.12736	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6373	CXCL11	O14625	signaling molecule	C-X-C motif chemokine ligand 11	0.582	0.724	0.32939	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	6372	CXCL6	P80162	signaling molecule	C-X-C motif chemokine ligand 6	0.659	0.448	2.8075e-09	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	6363	CCL19	Q99731	signaling molecule	C-C motif chemokine ligand 19	0.575	0.586	0.24633	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	6362	CCL18	P55774	signaling molecule	C-C motif chemokine ligand 18	0.557	0.724	0.0088681	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	6357	CCL13	Q99616	signaling molecule	C-C motif chemokine ligand 13	0.685	0.517	0.033735	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6346	CCL1	P22362	signaling molecule	C-C motif chemokine ligand 1	0.663	0.483	0.0088536	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	6318	SERPINB4	P48594	enzyme modulator	serpin family B member 4	0.636	0.379	6.8819e-17	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	6317	SERPINB3	P29508	enzyme modulator	serpin family B member 3	0.59	0.483	5.392e-16	0.01	no reported evidence		1	0	2005.0	2005.0
+C0021368	Inflammation	6283	S100A12	P80511	calcium-binding protein; signaling molecule	S100 calcium binding protein A12	0.564	0.552	0.49616	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	6278	S100A7	P31151	calcium-binding protein; signaling molecule	S100 calcium binding protein A7	0.609	0.517	0.44805	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5979	RET	P07949		ret proto-oncogene	0.418	0.724	1.0	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5806	PTX3	P26022		pentraxin 3	0.543	0.69	7.5491e-05	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	5764	PTN	P21246	signaling molecule	pleiotrophin	0.565	0.586	0.008119	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	5728	PTEN	P60484	hydrolase; phosphatase	phosphatase and tensin homolog	0.334	0.828	0.81793	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	5646	PRSS3	P35030	hydrolase; protease	serine protease 3	0.639	0.448	1.7591e-11	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4684	NCAM1	P13591		neural cell adhesion molecule 1	0.445	0.759	0.99999	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4582	MUC1	P15941		mucin 1, cell surface associated	0.429	0.828	0.092962	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4345	CD200	P41217		CD200 molecule	0.642	0.483	0.43554	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	3566	IL4R	P24394	receptor	interleukin 4 receptor	0.512	0.793	0.00021949	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3556	IL1RAP	Q9NPH3	receptor	interleukin 1 receptor accessory protein	0.72	0.483	0.27971	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	3479	IGF1	P05019		insulin like growth factor 1	0.355	0.828	0.28843	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	3329	HSPD1	P10809		heat shock protein family D (Hsp60) member 1	0.481	0.793	0.99184	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3320	HSP90AA1	P07900	chaperone	heat shock protein 90 alpha family class A member 1	0.453	0.828	0.8608	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3269	HRH1	P35367	receptor	histamine receptor H1	0.685	0.414	9.5591e-07	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3091	HIF1A	Q16665	nucleic acid binding; transcription factor	hypoxia inducible factor 1 subunit alpha	0.367	0.793	0.97467	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3084	NRG1	Q02297	signaling molecule	neuregulin 1	0.506	0.759	0.99553	0.01	no reported evidence		1	0	2003.0	2003.0
+C0021368	Inflammation	3001	GZMA	P12544	hydrolase; protease	granzyme A	0.685	0.483	1.3085e-06	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2957	GTF2A1	P52655	nucleic acid binding; transcription factor	general transcription factor IIA subunit 1	0.815	0.138	0.99171	0.01	no reported evidence		1	0	2002.0	2002.0
+C0021368	Inflammation	2908	NR3C1	P04150	nucleic acid binding; receptor; transcription factor	nuclear receptor subfamily 3 group C member 1	0.427	0.793	0.97882	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2896	GRN	P28799		granulin precursor	0.476	0.724	0.053281	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	2688	GH1	P01241	signaling molecule	growth hormone 1	0.438	0.793	0.031578	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2643	GCH1	P30793	hydrolase	GTP cyclohydrolase 1	0.534	0.724	0.91089	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2532	ACKR1	Q16570		atypical chemokine receptor 1 (Duffy blood group)	0.636	0.655		0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	2520	GAST	P01350		gastrin	0.512	0.69	0.0073666	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3592	IL12A	P29459		interleukin 12A	0.547	0.759	0.049764	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3593	IL12B	P29460	defense/immunity protein; signaling molecule	interleukin 12B	0.506	0.793	0.00012322	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	3604	TNFRSF9	Q07011		TNF receptor superfamily member 9	0.565	0.621	0.26577	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	4319	MMP10	P09238	hydrolase; protease	matrix metallopeptidase 10	0.58	0.759	5.5281e-15	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	4312	MMP1	P03956	hydrolase; protease	matrix metallopeptidase 1	0.415	0.793	6.2409e-18	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	4311	MME	P08473	hydrolase; protease	membrane metalloendopeptidase	0.461	0.69	6.9777e-17	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	4267	CD99	P14209		CD99 molecule (Xg blood group)	0.562	0.621	0.0031865	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4210	MEFV	O15553		MEFV, pyrin innate immunity regulator	0.494	0.724	1.0353e-14	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4150	MAZ	P56270		MYC associated zinc finger protein	0.672	0.448	0.98776	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	4092	SMAD7	O15105	transcription factor	SMAD family member 7	0.52	0.621	0.5599	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	4088	SMAD3	P84022	transcription factor	SMAD family member 3	0.462	0.862	0.83866	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3984	LIMK1	P53667		LIM domain kinase 1	0.552	0.621	0.99926	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	3976	LIF	P15018	signaling molecule	LIF, interleukin 6 family cytokine	0.528	0.655	0.50007	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	3816	KLK1	P06870	hydrolase; protease	kallikrein 1	0.564	0.552	0.00011466	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3777	KCNK3	O14649		potassium two pore domain channel subfamily K member 3	0.663	0.276	0.89353	0.01	no reported evidence		1	0	2009.0	2009.0
+C0021368	Inflammation	3698	ITIH2	P19823	enzyme modulator	inter-alpha-trypsin inhibitor heavy chain 2	0.857	0.138	1.0133e-20	0.01	no reported evidence		1	0	2006.0	2006.0
+C0021368	Inflammation	3683	ITGAL	P20701		integrin subunit alpha L	0.547	0.793	0.004967	0.01	no reported evidence		1	0	2008.0	2008.0
+C0021368	Inflammation	3672	ITGA1	P56199		integrin subunit alpha 1	0.681	0.517	5.2854e-15	0.01	no reported evidence		1	0	2007.0	2007.0
+C0021368	Inflammation	3659	IRF1	P10914	nucleic acid binding; transcription factor	interferon regulatory factor 1	0.503	0.724	0.99019	0.01	no reported evidence		1	0	2004.0	2004.0
+C0021368	Inflammation	2358	FPR2	P25090	receptor	formyl peptide receptor 2	0.607	0.655	0.40513	0.01	no reported evidence		1	0	2003.0	2003.0

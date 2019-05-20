@@ -5,4 +5,3 @@ MUO	2152	12%
 Rheumatoid arthritis	3337	27.91%
 DCM	1712	10.66%
 ICM	3372	21.01%
-SLE	1804	14.3%

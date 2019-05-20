@@ -1,0 +1,28 @@
+pathway	process
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	Angiogenesis
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	Angiogenesis
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	Complement
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	Cytokines
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	Cytokines
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	Cytokines
+REACTOME_IL_6_SIGNALING	Cytokines
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	Cytokines
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	Development
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	Immune cells
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	Immune cells
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	Inflammation
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	Inflammation
+REACTOME_THE_NLRP3_INFLAMMASOME	Inflammation
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	Inflammation
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	Metabolism
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	Metabolism
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	NFkB
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	NFkB
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	NFkB
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	NFkB
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	NFkB
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	NFkB
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	NFkB
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	NFkB
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	NFkB
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	Vitamin B12

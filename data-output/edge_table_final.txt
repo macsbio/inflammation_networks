@@ -1,0 +1,520 @@
+source	target
+Cytokines	GNB1
+Cytokines	PTPN11
+Cytokines	SHC1
+Cytokines	PIK3R1
+Cytokines	UBC
+Cytokines	UBA52
+Cytokines	GNG2
+Cytokines	RPS27A
+Cytokines	CD3E
+Cytokines	UBB
+Cytokines	CD44
+Cytokines	CCL4
+Cytokines	CCL3
+Cytokines	STAT6
+Cytokines	FOXP3
+Cytokines	PTPN1
+Cytokines	CXCL10
+Inflammation	SHC1
+Inflammation	ELANE
+Inflammation	CCL4
+Inflammation	UBC
+Inflammation	PIK3R1
+Inflammation	GNB1
+Inflammation	UBA52
+NFkB	RPS27A
+NFkB	TNFSF14
+NFkB	UBB
+NFkB	UBC
+NFkB	UBA52
+NFkB	SHC1
+NFkB	PTPN11
+NFkB	PIK3R1
+NFkB	CXCL10
+NFkB	GNG2
+NFkB	CXCR3
+NFkB	CCL20
+NFkB	GNB1
+NFkB	CCL4
+NFkB	POMC
+NFkB	CD44
+NFkB	DUSP10
+NFkB	NGF
+NFkB	EDN1
+NFkB	PPARA
+NFkB	ELANE
+NFkB	CST3
+NFkB	BDNF
+NFkB	STAT6
+Angiogenesis	GNB1
+Angiogenesis	EDN1
+Angiogenesis	GNG2
+Angiogenesis	SHC1
+Angiogenesis	PTPN11
+Angiogenesis	VEGFC
+Angiogenesis	PIK3R1
+Angiogenesis	PGF
+Angiogenesis	CXCR3
+Angiogenesis	CCK
+Angiogenesis	CNR2
+Angiogenesis	ANXA1
+Angiogenesis	POMC
+Angiogenesis	CCL4
+Angiogenesis	UBC
+Angiogenesis	FGF1
+Angiogenesis	NGF
+Angiogenesis	F2R
+Angiogenesis	LTB4R
+Metabolism	UBA52
+Metabolism	UBC
+NFkB	TRIP6
+NFkB	CASP8
+NFkB	CHUK
+NFkB	TAB3
+NFkB	CXCL1
+NFkB	RIPK2
+NFkB	TNF
+NFkB	BIRC3
+NFkB	CCL2
+NFkB	XIAP
+NFkB	CCL5
+NFkB	NOD1
+NFkB	CARD6
+NFkB	CCL13
+NFkB	CCL11
+NFkB	CCL8
+NFkB	CARD8
+NFkB	CCL7
+NFkB	MEFV
+NFkB	CXCL8
+NFkB	MAPK9
+NFkB	MAPK10
+NFkB	MAPK11
+NFkB	ERBIN
+NFkB	MAPK13
+NFkB	CASP5
+NFkB	IKBKB
+NFkB	NOD2
+NFkB	MAP3K7
+NFkB	CASP1
+NFkB	CARD18
+NFkB	TNFAIP3
+NFkB	SUGT1
+NFkB	MAPK3
+NFkB	PSTPIP1
+NFkB	NFKB1
+NFkB	NFKBIB
+NFkB	NFKBIA
+NFkB	MAPK1
+NFkB	IKBKG
+NFkB	CARD9
+NFkB	MAPK8
+NFkB	MAPK14
+NFkB	MAPK12
+NFkB	IL18
+NFkB	RELA
+NFkB	PYDC1
+NFkB	TRAF6
+NFkB	HSP90AA1
+NFkB	PYCARD
+NFkB	TAB2
+NFkB	NLRC4
+NFkB	IL1B
+NFkB	HSP90B1
+NFkB	NLRP3
+NFkB	NLRP1
+NFkB	NAIP
+NFkB	BIRC2
+NFkB	CXCL2
+NFkB	HSP90AB1
+NFkB	TAB1
+NFkB	IL6
+NFkB	RIPK3
+NFkB	
+NFkB	AGER
+NFkB	HMGB1
+NFkB	APP
+NFkB	NFKB2
+NFkB	S100A12
+NFkB	S100B
+NFkB	SAA1
+NFkB	TLR3
+NFkB	ZBP1
+NFkB	RIPK1
+NFkB	IRAK1
+NFkB	IRAK2
+NFkB	DDX58
+NFkB	MAP3K1
+NFkB	MAVS
+NFkB	IFIH1
+NFkB	TRAF2
+NFkB	TRIM25
+NFkB	RNF135
+NFkB	IRF7
+NFkB	TMEM189-UBE2V1
+NFkB	MYD88
+NFkB	IRAK4
+NFkB	TLR7
+NFkB	TLR8
+NFkB	TLR9
+NFkB	UBE2N
+Inflammation	DDOST
+Inflammation	AGER
+Inflammation	HMGB1
+Inflammation	APP
+Inflammation	LGALS3
+Inflammation	PRKCSH
+Inflammation	MAPK1
+Inflammation	MAPK3
+Inflammation	S100A12
+Inflammation	S100B
+Inflammation	SAA1
+Inflammation	CAPZA1
+Inflammation	CAPZA2
+Cytokines	IL6
+Cytokines	IL6R
+Cytokines	IL6ST
+Cytokines	JAK1
+Cytokines	JAK2
+Cytokines	STAT1
+Cytokines	STAT3
+Cytokines	TYK2
+Cytokines	CBL
+Cytokines	SOCS3
+Inflammation	TXNIP
+Inflammation	NLRP3
+Inflammation	PANX1
+Inflammation	PYCARD
+Inflammation	HSP90AB1
+Inflammation	MEFV
+Inflammation	P2RX7
+Inflammation	TXN
+Inflammation	CASP1
+Inflammation	PSTPIP1
+Complement	MASP2
+Complement	CRP
+Complement	MBL2
+Complement	MASP1
+Complement	C1QA
+Complement	C1QB
+Complement	C1QC
+Complement	C1S
+Vitamin B12	SHMT2
+Vitamin B12	PLG
+Vitamin B12	MMAB
+Vitamin B12	CCL5
+Vitamin B12	TNF
+Vitamin B12	F7
+Vitamin B12	HBB
+Vitamin B12	HBA1
+Vitamin B12	F2
+Vitamin B12	CBS
+Vitamin B12	IL1B
+Vitamin B12	INS
+Vitamin B12	CCL2
+Vitamin B12	MTHFR
+Vitamin B12	TCN2
+Vitamin B12	TCN1
+Vitamin B12	SERPINA3
+Vitamin B12	MAT1A
+Vitamin B12	SAA2
+Vitamin B12	CUBN
+Vitamin B12	SAA1
+Vitamin B12	ABCA1
+Vitamin B12	IL6
+Vitamin B12	INSR
+Vitamin B12	NFKB1
+Vitamin B12	NFKB2
+Vitamin B12	MMUT
+Vitamin B12	MPO
+Vitamin B12	MTRR
+Vitamin B12	LRP2
+Vitamin B12	CBLIF
+Vitamin B12	ICAM1
+Vitamin B12	SAA4
+Vitamin B12	IFNG
+Vitamin B12	ALB
+Vitamin B12	APOA1
+Vitamin B12	APOB
+Vitamin B12	SOD1
+Vitamin B12	SOD3
+Vitamin B12	MTR
+Vitamin B12	
+Vitamin B12	SERPINE1
+Vitamin B12	RELA
+Vitamin B12	CTH
+Vitamin B12	LDLR
+Vitamin B12	CRP
+Vitamin B12	APOE
+Vitamin B12	MCEE
+Vitamin B12	PLAT
+Vitamin B12	SCARB1
+Immune cells	TOX
+Immune cells	TNF
+Immune cells	GFI1
+Immune cells	AHR
+Immune cells	RORA
+Immune cells	GATA3
+Immune cells	AREG
+Immune cells	HNF1A
+Immune cells	IL25
+Immune cells	IFNG
+Immune cells	IL9
+Immune cells	IL23A
+Immune cells	IL1B
+Immune cells	TBX21
+Immune cells	IL22
+Immune cells	TSLP
+Immune cells	EOMES
+Immune cells	NFIL3
+Immune cells	ID2
+Immune cells	IL7
+Immune cells	IL13
+Immune cells	IL12B
+Immune cells	IL12A
+Immune cells	IL6
+Immune cells	BCL11B
+Immune cells	IL15
+Immune cells	IL5
+Immune cells	IL4
+Immune cells	IL33
+Immune cells	ZBTB16
+Immune cells	IL18
+Immune cells	IL17A
+Metabolism	ROS1
+Metabolism	NFKB1
+Metabolism	HIF1A
+Metabolism	TFAM
+Metabolism	PPARG
+Metabolism	SIRT3
+Metabolism	SIRT1
+Metabolism	NAMPT
+Metabolism	FOXO3
+Metabolism	FOXO1
+Metabolism	PARP1
+Inflammation	ITGAD
+Inflammation	TNF
+Inflammation	COL4A1
+Inflammation	HMOX1
+Inflammation	BAX
+Inflammation	PIK3CD
+Inflammation	IL6
+Inflammation	BCL2
+Inflammation	CRP
+Inflammation	FN1
+Inflammation	CCND3
+Inflammation	CXCL8
+Inflammation	CDH3
+Inflammation	LAMA3
+Inflammation	PTGS1
+Inflammation	AKT3
+Inflammation	PTGS2
+Inflammation	NFRKB
+Inflammation	PTK2
+NFkB	TLR4
+NFkB	TLR5
+NFkB	TIFA
+NFkB	UBE2V1
+NFkB	IL1A
+NFkB	TLR2
+NFkB	TLR1
+NFkB	TLR10
+NFkB	TLR6
+NFkB	JUN
+NFkB	VEGFA
+NFkB	ICAM1
+NFkB	CSF2
+NFkB	CCND1
+NFkB	IL2
+NFkB	BIRC5
+NFkB	BCL2A1
+NFkB	BCL2L2
+NFkB	CD40LG
+NFkB	TNFRSF1A
+NFkB	SELE
+NFkB	RELB
+NFkB	EGLN2
+NFkB	VCAM1
+NFkB	MMP1
+NFkB	PTGS2
+NFkB	MMP2
+NFkB	MMP3
+NFkB	REL
+NFkB	CFLAR
+NFkB	MMP9
+Development	CHI3L1
+Development	MYC
+Development	TP53
+Development	STAT3
+Development	CDH1
+Development	IL6ST
+Development	SOCS3
+Development	E2F1
+Development	MMP9
+Development	BAX
+Angiogenesis	TIMP2
+Angiogenesis	TEK
+Angiogenesis	SMAD1
+Angiogenesis	HIF1A
+Angiogenesis	MAPK1
+Angiogenesis	TIMP3
+Angiogenesis	PDGFB
+Angiogenesis	VEGFA
+Angiogenesis	KDR
+Angiogenesis	PDGFRA
+Angiogenesis	FGFR2
+Angiogenesis	PIK3CA
+Angiogenesis	ANGPT1
+Angiogenesis	FGF2
+Angiogenesis	MAPK14
+Angiogenesis	CREBBP
+Angiogenesis	FLT1
+Angiogenesis	PLCG1
+Angiogenesis	ARNT
+Angiogenesis	AKT1
+Angiogenesis	PTK2
+Angiogenesis	SRC
+Angiogenesis	NOS3
+Angiogenesis	MMP9
+NFkB	TRAF3
+NFkB	IKBKE
+NFkB	TIRAP
+NFkB	IRF3
+NFkB	TOLLIP
+NFkB	TICAM2
+NFkB	TBK1
+NFkB	ITGB3
+NFkB	SPP1
+NFkB	MAP3K14
+NFkB	ITGAV
+NFkB	PLAU
+NFkB	MAP2K1
+Metabolism	HEPHL1
+Metabolism	ACO1
+Metabolism	TFRC
+Metabolism	SLC11A2
+Metabolism	TFR2
+Metabolism	HAMP
+Metabolism	TF
+Metabolism	FTH1
+Metabolism	SLC40A1
+Metabolism	MCOLN1
+Metabolism	STEAP3
+Metabolism	IREB2
+Angiogenesis	MAS1
+Angiogenesis	REN
+Angiogenesis	
+Angiogenesis	ACE2
+Angiogenesis	AGT
+Angiogenesis	AGTR1
+Angiogenesis	AGTR2
+Angiogenesis	KNG1
+Angiogenesis	CMA1
+Angiogenesis	CTSG
+Angiogenesis	CYP11B2
+Angiogenesis	BDKRB1
+Angiogenesis	BDKRB2
+Angiogenesis	NR3C2
+Angiogenesis	ACE
+Angiogenesis	ATP6AP2
+Inflammation	TLR4
+Inflammation	CD14
+Inflammation	TRAF6
+Inflammation	NFKB1
+Inflammation	LTF
+Inflammation	IL1A
+Inflammation	TLR2
+Inflammation	IFNA1
+Inflammation	TREM1
+Inflammation	IFNB1
+Inflammation	IRAK4
+Inflammation	IL1B
+Inflammation	IRAK1
+Inflammation	MYD88
+Cytokines	TNF
+Cytokines	CSF3
+Cytokines	HLA-DRB1
+Cytokines	IL3
+Cytokines	HLA-DRA
+Cytokines	
+Cytokines	CSF2
+Cytokines	CSF1
+Cytokines	IL2
+Cytokines	CXCL2
+Cytokines	IFNG
+Cytokines	IFNB1
+Cytokines	IL1B
+Cytokines	PDGFA
+Cytokines	IL1A
+Cytokines	IL13
+Cytokines	IL7
+Cytokines	IL12B
+Cytokines	IL15
+Cytokines	IL5
+Cytokines	IL11
+Cytokines	IL4
+Cytokines	IL10
+Cytokines	CD4
+Cytokines	CXCL1
+Immune cells	ITGAL
+Immune cells	VCAM1
+Immune cells	IL1A
+Immune cells	ICAM1
+Immune cells	KNG1
+Immune cells	C7
+Immune cells	CXCL8
+Immune cells	SELP
+Immune cells	ITGA4
+Immune cells	SELPLG
+Immune cells	ITGB1
+Immune cells	C5
+Immune cells	ITGB2
+Immune cells	C3
+Immune cells	C6
+Cytokines	STAT2
+Cytokines	IL10RB
+Cytokines	BLVRA
+Cytokines	IL10RA
+Cytokines	BLVRB
+Cytokines	HMOX1
+Cytokines	TGFB3
+Cytokines	NFKB1
+Cytokines	TRAF6
+Cytokines	NFKBIA
+Cytokines	TGFB2
+Cytokines	MAP3K14
+Cytokines	IFNA1
+Cytokines	TOLLIP
+Cytokines	IL1RN
+Cytokines	IL1RAP
+Cytokines	MAPK14
+Cytokines	IL1R1
+Cytokines	MAPK8
+Cytokines	IRAK1
+Cytokines	IRAK2
+Cytokines	TAB1
+Cytokines	RELA
+Cytokines	MAP3K7
+Cytokines	IKBKB
+Cytokines	MAP2K6
+Cytokines	ECSIT
+Cytokines	CHUK
+Cytokines	MAP3K1
+Cytokines	IRAK3
+Cytokines	MYD88
+Cytokines	MAP2K3
+Cytokines	JUN
+Cytokines	TLR4
+Cytokines	PF4
+Cytokines	CCL5
+Cytokines	SELE
+Cytokines	VCAM1
+Cytokines	ICAM1
+Cytokines	TLR2
+Cytokines	TLR7
+Cytokines	SELP
+Cytokines	CCL2
+Cytokines	SELPLG
+Cytokines	CD40
+Cytokines	CD40LG

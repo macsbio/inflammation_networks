@@ -1,0 +1,37 @@
+pathway	freqInflGene	freqGene	percentage
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	7	17	41.18
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	7	24	29.17
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	9	17	52.94
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	12	27	44.44
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	16	32	50
+EBV LMP1 signaling%WikiPathways_20190410%WP262%Homo sapiens	6	24	25
+Hepatitis C and Hepatocellular Carcinoma%WikiPathways_20190410%WP3646%Homo sapiens	13	50	26
+Hypertrophy Model%WikiPathways_20190410%WP516%Homo sapiens	6	20	30
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	5	12	41.67
+IL1 and megakaryocytes in obesity%WikiPathways_20190410%WP2865%Homo sapiens	13	25	52
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	3	12	25
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	18	62	29.03
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	11	20	55
+Lung fibrosis%WikiPathways_20190410%WP3624%Homo sapiens	27	63	42.86
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	3	10	30
+miRNAs involvement in the immune response in sepsis%WikiPathways_20190410%WP4329%Homo sapiens	16	64	25
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	3	11	27.27
+Nanoparticle triggered regulated necrosis%WikiPathways_20190410%WP2513%Homo sapiens	3	12	25
+ncRNAs involved in STAT3 signaling in hepatocellular carcinoma%WikiPathways_20190410%WP4337%Homo sapiens	5	17	29.41
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5	13	38.46
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	6	19	31.58
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	17	35	48.57
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	11	17	64.71
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	5	13	38.46
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	3	10	30
+REACTOME_IL_6_SIGNALING	3	11	27.27
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6	18	33.33
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	8	23	34.78
+REACTOME_THE_NLRP3_INFLAMMASOME	3	12	25
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	3	10	30
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	6	21	28.57
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	10	35	28.57
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7	19	36.84
+TFs Regulate miRNAs related to cardiac hypertrophy%WikiPathways_20190410%WP1559%Homo sapiens	4	12	33.33
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	8	32	25
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	16	53	30.19

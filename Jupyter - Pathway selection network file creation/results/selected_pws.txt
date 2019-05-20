@@ -1,23 +1,69 @@
 pathway
+ACE Inhibitor Pathway%WikiPathways_20181110%WP554%Homo sapiens
+Allograft Rejection%WikiPathways_20181110%WP2328%Homo sapiens
+Angiogenesis%WikiPathways_20181110%WP1539%Homo sapiens
+ApoE and miR-146 in inflammation and atherosclerosis%WikiPathways_20181110%WP3926%Homo sapiens
+Blood Clotting Cascade%WikiPathways_20181110%WP272%Homo sapiens
+Caloric restriction and aging%WikiPathways_20181110%WP4191%Homo sapiens
 Cells and Molecules involved in local acute inflammatory response%WP4493%Homo sapiens
+Complement and Coagulation Cascades%WikiPathways_20181110%WP558%Homo sapiens
 Control of immune tolerance by vasoactive intestinal peptide%WP4484%Homo sapiens
 Cytokines and Inflammatory Response%WikiPathways_20181110%WP530%Homo sapiens
 Development and heterogeneity of the ILC family%WikiPathways_20181110%WP3893%Homo sapiens
+Development of pulmonary dendritic cells and macrophage subsets%WikiPathways_20181110%WP3892%Homo sapiens
+Differentiation Pathway%WikiPathways_20181110%WP2848%Homo sapiens
+EV release from cardiac cells and their functional effects%WikiPathways_20181110%WP3297%Homo sapiens
+Extracellular vesicles in the crosstalk of cardiac cells%WikiPathways_20181110%WP4300%Homo sapiens
 Fibrin Complement Receptor 3 Signaling Pathway%WikiPathways_20181110%WP4136%Homo sapiens
+Folate Metabolism%WikiPathways_20181110%WP176%Homo sapiens
+Gastric acid production%WikiPathways_20181110%WP2596%Homo sapiens
+Hepatitis C and Hepatocellular Carcinoma%WikiPathways_20181110%WP3646%Homo sapiens
+Hypertrophy Model%WikiPathways_20181110%WP516%Homo sapiens
 IL-10 Anti-inflammatory Signaling Pathway%WP4495%Homo sapiens
 IL1 and megakaryocytes in obesity%WikiPathways_20181110%WP2865%Homo sapiens
+KEGG_BLADDER_CANCER
+KEGG_COMPLEMENT_AND_COAGULATION_CASCADES
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION
 KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY
+Leptin and adiponectin%WikiPathways_20181110%WP3934%Homo sapiens
+Leptin Insulin Overlap%WikiPathways_20181110%WP3935%Homo sapiens
+LncRNA-mediated mechanisms of therapeutic resistance%WikiPathways_20181110%WP3672%Homo sapiens
 LTF danger signal response pathway%WP4478%Homo sapiens
 Lung fibrosis%WikiPathways_20181110%WP3624%Homo sapiens
+Macrophage markers%WikiPathways_20181110%WP4146%Homo sapiens
+Matrix Metalloproteinases%WikiPathways_20181110%WP129%Homo sapiens
+MicroRNA for Targeting Cancer Growth and Vascularization in Glioblastoma%WikiPathways_20181110%WP3593%Homo sapiens
+NAD metabolism, sirtuins and aging%WikiPathways_20181110%WP3630%Homo sapiens
+Oligodendrocyte Specification and differentiation(including remyelination), leading to Myelin Components for CNS%WikiPathways_20181110%WP4304%Homo sapiens
+Osteopontin Signaling%WikiPathways_20181110%WP1434%Homo sapiens
 Overview of nanoparticle effects%WikiPathways_20181110%WP3287%Homo sapiens
+Photodynamic therapy-induced HIF-1 survival signaling%WikiPathways_20181110%WP3614%Homo sapiens
 Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20181110%WP3617%Homo sapiens
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING
+REACTOME_CHEMOKINE_RECEPTORS_BIND_CHEMOKINES
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS
+REACTOME_DEGRADATION_OF_THE_EXTRACELLULAR_MATRIX
+REACTOME_EXTRINSIC_PATHWAY_FOR_APOPTOSIS
+REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE
+REACTOME_IL_6_SIGNALING
+REACTOME_INITIAL_TRIGGERING_OF_COMPLEMENT
+REACTOME_INTRINSIC_PATHWAY
+REACTOME_PASSIVE_TRANSPORT_BY_AQUAPORINS
+REACTOME_REGULATION_OF_IFNG_SIGNALING
 REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI
 REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX
+REACTOME_TETRAHYDROBIOPTERIN_BH4_SYNTHESIS_RECYCLING_SALVAGE_AND_REGULATION
+REACTOME_THE_NLRP3_INFLAMMASOME
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION
+REACTOME_VEGF_LIGAND_RECEPTOR_INTERACTIONS
 Resistin as a regulator of inflammation%WP4481%Homo sapiens
+Role Altered Glycolysation of MUC1 in Tumour Microenvironment
 Selective expression of chemokine receptors during T-cell polarization%WP4494%Homo sapiens
 Signal transduction through IL1R%WP4496%Homo sapiens
 Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20181110%WP3877%Homo sapiens
+Somatroph axis (GH) and its relationship to dietary restriction and aging%WikiPathways_20181110%WP4186%Homo sapiens
+TFs Regulate miRNAs related to cardiac hypertrophy%WikiPathways_20181110%WP1559%Homo sapiens
+Toll-like Receptor Signaling%WikiPathways_20181110%WP3858%Homo sapiens
 Vitamin B12 Metabolism%WikiPathways_20181110%WP1533%Homo sapiens
-IL17 signaling pathway%WikiPathways_20181110%WP2112%Homo sapiens
-IL-6 signaling pathway%WikiPathways_20181110%WP364%Homo sapiens
-Relationship between inflammation, COX-2 and EGFR%WP4483%Homo sapiens
+Vitamin D in inflammatory diseases%WP4482%Homo sapiens
