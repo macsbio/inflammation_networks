@@ -1,0 +1,573 @@
+pathway	entrezgene	hgnc_symbol
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	7205	TRIP6
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	841	CASP8
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	1147	CHUK
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	257397	TAB3
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	2919	CXCL1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	8767	RIPK2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	7124	TNF
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	330	BIRC3
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6347	CCL2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	331	XIAP
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6352	CCL5
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	10392	NOD1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	84674	CARD6
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6357	CCL13
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6356	CCL11
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6355	CCL8
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	22900	CARD8
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6354	CCL7
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	4210	MEFV
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3576	CXCL8
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5601	MAPK9
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5602	MAPK10
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5600	MAPK11
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	55914	ERBIN
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5603	MAPK13
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	838	CASP5
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3551	IKBKB
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	64127	NOD2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6885	MAP3K7
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	834	CASP1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	59082	CARD18
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	7128	TNFAIP3
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	10910	SUGT1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5595	MAPK3
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	9051	PSTPIP1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	4790	NFKB1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	4793	NFKBIB
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	4792	NFKBIA
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5594	MAPK1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	8517	IKBKG
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	64170	CARD9
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5599	MAPK8
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	1432	MAPK14
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	6300	MAPK12
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3606	IL18
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	5970	RELA
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	260434	PYDC1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	7189	TRAF6
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3320	HSP90AA1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	29108	PYCARD
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	23118	TAB2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	58484	NLRC4
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3553	IL1B
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	7184	HSP90B1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	114548	NLRP3
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	22861	NLRP1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	4671	NAIP
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	329	BIRC2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	2920	CXCL2
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3326	HSP90AB1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	10454	TAB1
+KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY	3569	IL6
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	11035	RIPK3
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	1147	CHUK
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	148022	
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	177	AGER
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	3146	HMGB1
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	351	APP
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	3551	IKBKB
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	4791	NFKB2
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	4792	NFKBIA
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	4793	NFKBIB
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	5970	RELA
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6283	S100A12
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6285	S100B
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	6288	SAA1
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	7098	TLR3
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	81030	ZBP1
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	8517	IKBKG
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	8737	RIPK1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	10392	NOD1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	10454	TAB1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	1147	CHUK
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	177	AGER
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	23118	TAB2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	257397	TAB3
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	3146	HMGB1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	351	APP
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	3551	IKBKB
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	3654	IRAK1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	3656	IRAK2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	4791	NFKB2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	4792	NFKBIA
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	4793	NFKBIB
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	5970	RELA
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	6283	S100A12
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	6285	S100B
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	6288	SAA1
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	64127	NOD2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	6885	MAP3K7
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	7189	TRAF6
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	8517	IKBKG
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	8767	RIPK2
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	1147	CHUK
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	177	AGER
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	23586	DDX58
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	3146	HMGB1
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	351	APP
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	3551	IKBKB
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	4214	MAP3K1
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	4791	NFKB2
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	4792	NFKBIA
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	4793	NFKBIB
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	57506	MAVS
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	5970	RELA
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	6283	S100A12
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	6285	S100B
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	6288	SAA1
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	64135	IFIH1
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	7186	TRAF2
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	7189	TRAF6
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	7706	TRIM25
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	84282	RNF135
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	8517	IKBKG
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	3654	IRAK1
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	3665	IRF7
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	387522	TMEM189-UBE2V1
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	4615	MYD88
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	51135	IRAK4
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	51284	TLR7
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	51311	TLR8
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	54106	TLR9
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	7189	TRAF6
+REACTOME_TRAF6_MEDIATED_IRF7_ACTIVATION_IN_TLR7_8_OR_9_SIGNALING	7334	UBE2N
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	1650	DDOST
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	177	AGER
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	3146	HMGB1
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	351	APP
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	3958	LGALS3
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	5589	PRKCSH
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	5594	MAPK1
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	5595	MAPK3
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	6283	S100A12
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	6285	S100B
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	6288	SAA1
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	829	CAPZA1
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	830	CAPZA2
+REACTOME_IL_6_SIGNALING	3569	IL6
+REACTOME_IL_6_SIGNALING	3570	IL6R
+REACTOME_IL_6_SIGNALING	3572	IL6ST
+REACTOME_IL_6_SIGNALING	3716	JAK1
+REACTOME_IL_6_SIGNALING	3717	JAK2
+REACTOME_IL_6_SIGNALING	6772	STAT1
+REACTOME_IL_6_SIGNALING	6774	STAT3
+REACTOME_IL_6_SIGNALING	7297	TYK2
+REACTOME_IL_6_SIGNALING	867	CBL
+REACTOME_IL_6_SIGNALING	9021	SOCS3
+REACTOME_THE_NLRP3_INFLAMMASOME	10628	TXNIP
+REACTOME_THE_NLRP3_INFLAMMASOME	114548	NLRP3
+REACTOME_THE_NLRP3_INFLAMMASOME	24145	PANX1
+REACTOME_THE_NLRP3_INFLAMMASOME	29108	PYCARD
+REACTOME_THE_NLRP3_INFLAMMASOME	3326	HSP90AB1
+REACTOME_THE_NLRP3_INFLAMMASOME	351	APP
+REACTOME_THE_NLRP3_INFLAMMASOME	4210	MEFV
+REACTOME_THE_NLRP3_INFLAMMASOME	5027	P2RX7
+REACTOME_THE_NLRP3_INFLAMMASOME	7295	TXN
+REACTOME_THE_NLRP3_INFLAMMASOME	834	CASP1
+REACTOME_THE_NLRP3_INFLAMMASOME	9051	PSTPIP1
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	10747	MASP2
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	1401	CRP
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	4153	MBL2
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	5648	MASP1
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	712	C1QA
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	713	C1QB
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	714	C1QC
+REACTOME_CREATION_OF_C4_AND_C2_ACTIVATORS	716	C1S
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6472	SHMT2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	5340	PLG
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	326625	MMAB
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6352	CCL5
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	7124	TNF
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	2155	F7
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3043	HBB
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3039	HBA1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	2147	F2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	875	CBS
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3553	IL1B
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3630	INS
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6347	CCL2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4524	MTHFR
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6948	TCN2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6947	TCN1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	12	SERPINA3
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4143	MAT1A
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6289	SAA2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	8029	CUBN
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6288	SAA1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	19	ABCA1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3569	IL6
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3643	INSR
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4790	NFKB1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4791	NFKB2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4594	MMUT
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4353	MPO
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4552	MTRR
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4036	LRP2
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	2694	CBLIF
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3383	ICAM1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6291	SAA4
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3458	IFNG
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	213	ALB
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	335	APOA1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	338	APOB
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6647	SOD1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6649	SOD3
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	4548	MTR
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	6648	
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	5054	SERPINE1
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	5970	RELA
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	1491	CTH
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	3949	LDLR
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	1401	CRP
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	348	APOE
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	84693	MCEE
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	5327	PLAT
+Vitamin B12 Metabolism%WikiPathways_20190410%WP1533%Homo sapiens	949	SCARB1
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	9760	TOX
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	7124	TNF
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	2672	GFI1
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	196	AHR
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	6095	RORA
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	2625	GATA3
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	374	AREG
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	6927	HNF1A
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	64806	IL25
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3458	IFNG
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3578	IL9
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	51561	IL23A
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3553	IL1B
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	30009	TBX21
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	50616	IL22
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	85480	TSLP
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	8320	EOMES
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	4783	NFIL3
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3398	ID2
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3574	IL7
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3596	IL13
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3593	IL12B
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3592	IL12A
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3569	IL6
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	64919	BCL11B
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3600	IL15
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3567	IL5
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3565	IL4
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	90865	IL33
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	7704	ZBTB16
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3606	IL18
+Development and heterogeneity of the ILC family%WikiPathways_20190410%WP3893%Homo sapiens	3605	IL17A
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	6098	ROS1
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	4790	NFKB1
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	3091	HIF1A
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	7019	TFAM
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	5468	PPARG
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	23410	SIRT3
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	23411	SIRT1
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	10135	NAMPT
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	2309	FOXO3
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	2308	FOXO1
+NAD metabolism, sirtuins and aging%WikiPathways_20190410%WP3630%Homo sapiens	142	PARP1
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	3681	ITGAD
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	7124	TNF
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	1282	COL4A1
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	3162	HMOX1
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	581	BAX
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	5293	PIK3CD
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	3569	IL6
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	596	BCL2
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	1401	CRP
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	2335	FN1
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	896	CCND3
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	3576	CXCL8
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	1001	CDH3
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	3909	LAMA3
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	5742	PTGS1
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	10000	AKT3
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	5743	PTGS2
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	4798	NFRKB
+Overview of nanoparticle effects%WikiPathways_20190410%WP3287%Homo sapiens	5747	PTK2
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7099	TLR4
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7189	TRAF6
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	4790	NFKB1
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7100	TLR5
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7334	UBE2N
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	92610	TIFA
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7335	UBE2V1
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	3552	IL1A
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7097	TLR2
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	7096	TLR1
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	51284	TLR7
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	81793	TLR10
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	51311	TLR8
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	3654	IRAK1
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	54106	TLR9
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	10333	TLR6
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	4615	MYD88
+Simplified Depiction of MYD88 Distinct Input-Output Pathway%WikiPathways_20190410%WP3877%Homo sapiens	3725	JUN
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4790	NFKB1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	7189	TRAF6
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4791	NFKB2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	7422	VEGFA
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	7124	TNF
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3383	ICAM1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	1437	CSF2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	330	BIRC3
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	595	CCND1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3558	IL2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	2920	CXCL2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	332	BIRC5
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	597	BCL2A1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	599	BCL2L2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3576	CXCL8
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3553	IL1B
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	959	CD40LG
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	7132	TNFRSF1A
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	5970	RELA
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	6401	SELE
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	5971	RELB
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	112398	EGLN2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	7412	VCAM1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3552	IL1A
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3551	IKBKB
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	3569	IL6
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	1147	CHUK
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4312	MMP1
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	5743	PTGS2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4313	MMP2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	329	BIRC2
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4314	MMP3
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	5966	REL
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	8837	CFLAR
+Photodynamic therapy-induced NF-kB survival signaling%WikiPathways_20190410%WP3617%Homo sapiens	4318	MMP9
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	1116	CHI3L1
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	4609	MYC
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	7157	TP53
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	6774	STAT3
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	999	CDH1
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	3572	IL6ST
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	9021	SOCS3
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	1869	E2F1
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	4318	MMP9
+Mammary gland development pathway - Involution (Stage 4 of 4)%WikiPathways_20190410%WP2815%Homo sapiens	581	BAX
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	7077	TIMP2
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	7010	TEK
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	4086	SMAD1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	3091	HIF1A
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5594	MAPK1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	7078	TIMP3
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5155	PDGFB
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	7422	VEGFA
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	3791	KDR
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5156	PDGFRA
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	2263	FGFR2
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5290	PIK3CA
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	284	ANGPT1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	2247	FGF2
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	1432	MAPK14
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	1387	CREBBP
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	2321	FLT1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5335	PLCG1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	405	ARNT
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	207	AKT1
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	5747	PTK2
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	6714	SRC
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	4846	NOS3
+Angiogenesis%WikiPathways_20190410%WP1539%Homo sapiens	4318	MMP9
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7187	TRAF3
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	9641	IKBKE
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7189	TRAF6
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	4790	NFKB1
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7100	TLR5
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	114609	TIRAP
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	4791	NFKB2
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	3661	IRF3
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	148022	
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	51284	TLR7
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	54472	TOLLIP
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	3654	IRAK1
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	10333	TLR6
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7099	TLR4
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7098	TLR3
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	5594	MAPK1
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	5970	RELA
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	5971	RELB
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	353376	TICAM2
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	3551	IKBKB
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7097	TLR2
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	7096	TLR1
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	29110	TBK1
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	1147	CHUK
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	51311	TLR8
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	51135	IRAK4
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	8517	IKBKG
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	3665	IRF7
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	54106	TLR9
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	5966	REL
+Toll-like Receptor Signaling%WikiPathways_20190410%WP3858%Homo sapiens	4615	MYD88
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	4790	NFKB1
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	3690	ITGB3
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5594	MAPK1
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	6696	SPP1
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5595	MAPK3
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5970	RELA
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	3551	IKBKB
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	9020	MAP3K14
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	1147	CHUK
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	3685	ITGAV
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5328	PLAU
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	5604	MAP2K1
+Osteopontin Signaling%WikiPathways_20190410%WP1434%Homo sapiens	4318	MMP9
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	341208	HEPHL1
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	48	ACO1
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	7037	TFRC
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	4891	SLC11A2
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	7036	TFR2
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	57817	HAMP
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	7018	TF
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	2495	FTH1
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	30061	SLC40A1
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	57192	MCOLN1
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	55240	STEAP3
+Iron metabolism in placenta%WikiPathways_20190410%WP2007%Homo sapiens	3658	IREB2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	4142	MAS1
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	5972	REN
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	7040	
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	59272	ACE2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	183	AGT
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	185	AGTR1
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	186	AGTR2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	3827	KNG1
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	1215	CMA1
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	1511	CTSG
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	1585	CYP11B2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	623	BDKRB1
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	624	BDKRB2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	4306	NR3C2
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	4846	NOS3
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	1636	ACE
+ACE Inhibitor Pathway%WikiPathways_20190410%WP554%Homo sapiens	10159	ATP6AP2
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	7099	TLR4
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	929	CD14
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	7189	TRAF6
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	4790	NFKB1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	5594	MAPK1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	7124	TNF
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	4057	LTF
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3552	IL1A
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	7097	TLR2
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3439	IFNA1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	54210	TREM1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	177	AGER
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3569	IL6
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3456	IFNB1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3576	CXCL8
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	51135	IRAK4
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3553	IL1B
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	3654	IRAK1
+LTF danger signal response pathway%WikiPathways_20190410%WP4478%Homo sapiens	4615	MYD88
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	7124	TNF
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	1440	CSF3
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3123	HLA-DRB1
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3562	IL3
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3122	HLA-DRA
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	7040	
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	1437	CSF2
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	1435	CSF1
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3558	IL2
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	2920	CXCL2
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3458	IFNG
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3456	IFNB1
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3553	IL1B
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	5154	PDGFA
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3552	IL1A
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3596	IL13
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3574	IL7
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3593	IL12B
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3569	IL6
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3600	IL15
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3567	IL5
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3589	IL11
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3565	IL4
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	3586	IL10
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	920	CD4
+Cytokines and Inflammatory Response%WikiPathways_20190410%WP530%Homo sapiens	2919	CXCL1
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	7124	TNF
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3683	ITGAL
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	7412	VCAM1
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3552	IL1A
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3383	ICAM1
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3827	KNG1
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3569	IL6
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	730	C7
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3576	CXCL8
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	6403	SELP
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3676	ITGA4
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	6404	SELPLG
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3688	ITGB1
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	727	C5
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	3689	ITGB2
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	718	C3
+Cells and Molecules involved in local acute inflammatory response %WikiPathways_20190410%WP4493%Homo sapiens	729	C6
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3716	JAK1
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3569	IL6
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	6773	STAT2
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3588	IL10RB
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	6772	STAT1
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	644	BLVRA
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3587	IL10RA
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	645	BLVRB
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	6774	STAT3
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3586	IL10
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3552	IL1A
+IL-10 Anti-inflammatory Signaling Pathway %WikiPathways_20190410%WP4495%Homo sapiens	3162	HMOX1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	7043	TGFB3
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	4790	NFKB1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	7189	TRAF6
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	4792	NFKBIA
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	7124	TNF
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	7040	
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	7042	TGFB2
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	9020	MAP3K14
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3439	IFNA1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	54472	TOLLIP
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3557	IL1RN
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3556	IL1RAP
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3456	IFNB1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	1432	MAPK14
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3554	IL1R1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3553	IL1B
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	5599	MAPK8
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3654	IRAK1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3656	IRAK2
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	10454	TAB1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	5970	RELA
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	6885	MAP3K7
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3552	IL1A
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3551	IKBKB
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	5608	MAP2K6
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3569	IL6
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	51295	ECSIT
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	1147	CHUK
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	4214	MAP3K1
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	11213	IRAK3
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	4615	MYD88
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	5606	MAP2K3
+Signal transduction through IL1R%WikiPathways_20190410%WP4496%Homo sapiens	3725	JUN
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7099	TLR4
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	5196	PF4
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7043	TGFB3
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	6352	CCL5
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	6401	SELE
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7412	VCAM1
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	3383	ICAM1
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7040	
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7097	TLR2
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	7042	TGFB2
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	51284	TLR7
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	3553	IL1B
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	6403	SELP
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	6347	CCL2
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	6404	SELPLG
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	958	CD40
+Platelet-mediated interactions with vascular and circulating cells%WikiPathways_20190410%WP4462%Homo sapiens	959	CD40LG
